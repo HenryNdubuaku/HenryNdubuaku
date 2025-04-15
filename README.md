@@ -34,7 +34,7 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-663399?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4500?style=for-the-badge&logo=gamepad&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge&logo=language&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=camera&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=camera&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-008080?style=for-the-badge&logo=android&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
