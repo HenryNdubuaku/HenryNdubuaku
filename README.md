@@ -31,16 +31,14 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 ### Technical Breadth 
 ![Mathematics](https://img.shields.io/badge/Mathematics-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer_Science-2E8B57?style=for-the-badge&logo=code&logoColor=white)
-![Cognitive Neuroscience](https://img.shields.io/badge/Cognitive_Neuroscience-FF5733?style=for-the-badge&logo=brain&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-663399?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF4500?style=for-the-badge&logo=gamepad&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge&logo=language&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=camera&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-8E44AD?style=for-the-badge&logo=cogs&logoColor=white) 
+![Transformers](https://img.shields.io/badge/Efficient_Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-008080?style=for-the-badge&logo=android&logoColor=white)
-![Efficient Transformers](https://img.shields.io/badge/Efficient_Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![Emerging Architectures](https://img.shields.io/badge/Emerging_Architectures-8E44AD?style=for-the-badge&logo=cogs&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-8E44AD?style=for-the-badge&logo=cogs&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -62,6 +60,4 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 - **2019-2021:** Unhealthy no of open-source projects (NanoDl, SuperLazyLLM, CUDARepo, etc.)
 - **2018:** Google Africa Developer Scholarship Programme with Andela
 
-💪 Gym  |  🥋 Mixed martial arts  |  ⚽ Football  |  🎵 Music  |  🕺  Dancer 
-
-**My projects are quite innovative, check them and give a star if feeling generous!** 👇
+💪 Gym  |  🥋 Mixed martial arts  |  ⚽ Football  |  🎵 Music  |  🕺  Dance
