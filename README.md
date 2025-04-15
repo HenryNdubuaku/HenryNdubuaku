@@ -27,8 +27,7 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 
 [gmail2-shield]: https://img.shields.io/badge/henry@cactuscompute.-555?style=flat
 [gmail-url]: mailto:henry@cactuscompute.com
-
-### Technical Breadth 
+ 
 ![Mathematics](https://img.shields.io/badge/Mathematics-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer_Science-2E8B57?style=for-the-badge&logo=code&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-663399?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -58,5 +57,3 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 - **2021-2024:** Wisdm - ML Software Engineer 
 - **2019-2021:** Unhealthy no of open-source projects (NanoDl, SuperLazyLLM, CUDARepo, etc.)
 - **2018:** Google Africa Developer Scholarship Programme with Andela
-
-💪 Gym  |  🥋 Mixed martial arts  |  ⚽ Football  |  🎵 Music  |  🕺  Dance
