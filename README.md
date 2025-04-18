@@ -68,10 +68,24 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Experience 
+### Career 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
 - **2024-25:** Deep Render - AI Research Engineer (Tiny AI models for realtime video compression)
 - **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
 - **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
 - **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
 - **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
+
+### Fun facts, maybe you'd like me more?
+- Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X after NanoDL &#x1F62D;.
+- After CUDARepo, Nvidia reached out, I did 6 technical rounds, got a verbal offer, back-and-forth over my YOE/pay, then I got YCombinator.
+- Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with him and his post-doc.
+- Did BEng at Madonna, to work with Prof Onyema Uzoamaka (one of the first CS graduates from MIT), he taught computing architecture off-head!
+- I contribute to the JAX ecosystem, and am a Google Developer Expert in AI and JAX.
+- Recieved the British Talent Immigration within 24hrs of application (no prority appeal or anything).
+
+### Working Profiency (not the best)
+![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
