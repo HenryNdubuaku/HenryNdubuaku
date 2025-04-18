@@ -76,7 +76,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
 - **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
 
-### Fun facts, maybe you'd like me more?
+### Fun Facts (I need you to like me)
 - Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X after NanoDL &#x1F62D;.
 - After CUDARepo, Nvidia reached out, I did 6 technical rounds, got a verbal offer, back-and-forth over my YOE/pay, then I got YCombinator.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with him and his post-doc.
