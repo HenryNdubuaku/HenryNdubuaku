@@ -49,6 +49,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
