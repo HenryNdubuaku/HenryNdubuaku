@@ -23,11 +23,12 @@
 </p>
 
 
-Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML Software Engineer, then an AI Research Engineer. Jack of all ML trades, master of on-device ML. I am building an Open-Source framework for edge ML (Cactus Compute), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url] 
+Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url] 
 
 [gmail2-shield]: https://img.shields.io/badge/henry@cactuscompute.-555?style=flat
 [gmail-url]: mailto:henry@cactuscompute.com
- 
+
+### Technical Expertise 
 ![Mathematics](https://img.shields.io/badge/Mathematics-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Computer Science](https://img.shields.io/badge/Computer_Science-2E8B57?style=for-the-badge&logo=code&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-663399?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -35,25 +36,42 @@ Studied Maths & CS, with a masters in Artificial intelligence, worked as an ML S
 ![NLP](https://img.shields.io/badge/NLP-4169E1?style=for-the-badge&logo=language&logoColor=white)
 ![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=camera&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-008080?style=for-the-badge&logo=android&logoColor=white)
-![Distributed ML](https://img.shields.io/badge/Distributed_ML-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-darkblue?style=for-the-badge)
+
+### Research Specialty 
+![Tiny Models](https://img.shields.io/badge/Tiny%20Models-teal?style=for-the-badge)
+![Multimodal Reasoning](https://img.shields.io/badge/Multimodal%20Reasoning-purple?style=for-the-badge)
+![Distillation](https://img.shields.io/badge/Distillation-gold?style=for-the-badge)
+![Edge Optimisation](https://img.shields.io/badge/Edge_AI-008080?style=for-the-badge&logo=android&logoColor=white)
+
+### Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-4285F4?style=for-the-badge&logo=jax&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-2378C6?style=for-the-badge&logo=cuda&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-8A8A8A?style=for-the-badge&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-4666B0?style=for-the-badge&logo=vulkan&logoColor=white)
+
+### System Tools
 ![gRPC](https://img.shields.io/badge/gRPC-8A2BE2?style=for-the-badge&logo=grpc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Beam](https://img.shields.io/badge/Beam-F9BF3B?style=for-the-badge&logo=apache-beam&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### Experience 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
-- **2024-2025:** Deep Render - AI Research Engineer 
-- **2021-2024:** Wisdm - ML Software Engineer 
-- **2019-2021:** Unhealthy no of open-source projects (NanoDl, SuperLazyLLM, CUDARepo, etc.)
-- **2018:** Google Africa Developer Scholarship Programme with Andela
+- **2024-25:** Deep Render - AI Research Engineer (Emerging architectures R&D for edge AI compression)
+- **2021-24:** Wisdm - ML Software Engineer (Perception Algorithms for Maxar Satelite imagery)
+- **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
+- **2018-19:** Google Africa Developer Scholarship Programme with Andela before MSc 
+- **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths & physics.
