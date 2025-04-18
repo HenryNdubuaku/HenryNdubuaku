@@ -23,15 +23,15 @@
 </p>
 
 
-Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url] 
+Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url] 
 
 [gmail2-shield]: https://img.shields.io/badge/henry@cactuscompute.-555?style=flat
 [gmail-url]: mailto:henry@cactuscompute.com
 
 ### Technical Expertise 
-![Maths](https://img.shields.io/badge/Mathematics-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white)
-![Computing](https://img.shields.io/badge/Computer_Science-6A5ACD?style=for-the-badge&logo=laptop-code&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=khanacademy&logoColor=white)
+![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=laptop-code&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=deepmind&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=nltk&logoColor=white)
 ![Vision](https://img.shields.io/badge/Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -52,13 +52,13 @@ Electronics & Computing, with a masters in Maths & AI, worked as an ML Software 
 
 ### Frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-00CCFE?style=for-the-badge&logo=jax&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=for-the-badge&logo=jax&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-F04A24?style=for-the-badge&logo=vulkan&logoColor=white)
 
-### System Tools
+### Systems Tools
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
