@@ -45,10 +45,10 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Languages 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&label=&message=&logo=python&logoColor=white&color=3776AB)
-![C](https://img.shields.io/static/v1?style=for-the-badge&label=&message=&logo=c&logoColor=white&color=A8B9CC)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&label=&message=&logo=cplusplus&logoColor=white&color=00599C)
-![Go](https://img.shields.io/static/v1?style=for-the-badge&label=&message=&logo=go&logoColor=white&color=00ADD8)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
