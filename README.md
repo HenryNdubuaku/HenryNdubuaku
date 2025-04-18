@@ -54,7 +54,7 @@ Electronics & Computing, with a masters in Maths & AI, worked as an ML Software 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-4285F4?style=for-the-badge&logo=jax&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-2378C6?style=for-the-badge&logo=cuda&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-2E8B57?style=for-the-badge&logo=cuda&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-8A8A8A?style=for-the-badge&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-4666B0?style=for-the-badge&logo=vulkan&logoColor=white)
 
@@ -66,12 +66,12 @@ Electronics & Computing, with a masters in Maths & AI, worked as an ML Software 
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Beam](https://img.shields.io/badge/Beam-F9BF3B?style=for-the-badge&logo=apache-beam&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Experience 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
-- **2024-25:** Deep Render - AI Research Engineer (Emerging architectures R&D for edge AI compression)
-- **2021-24:** Wisdm - ML Software Engineer (Perception Algorithms for Maxar Satelite imagery)
+- **2024-25:** Deep Render - AI Research Engineer (Tiny AI models for realtime video compression)
+- **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
 - **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
-- **2018-19:** Google Africa Developer Scholarship Programme with Andela before MSc 
-- **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths & physics.
+- **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
+- **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
