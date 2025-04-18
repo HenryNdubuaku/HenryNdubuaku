@@ -39,7 +39,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Research Specialty 
-![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-F4900C?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Distillation](https://img.shields.io/badge/Distillation-FFD700?style=for-the-badge&logo=brain&logoColor=white)
 ![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=raspberrypi&logoColor=white)
