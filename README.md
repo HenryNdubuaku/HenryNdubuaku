@@ -87,6 +87,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 
 ### Life Principles
 - When the talented fail to work hard, the hard workes beat the talented.
+- Everything should be an adventure, not a race.
 
 ### Working Profiency (not the best)
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
