@@ -77,7 +77,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
 
 ### Fun Facts 
-- My research has been proprietary, but you'd like [this](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1.full.pdf) and [this](https://www.researchgate.net/profile/Henry_Ndubuaku/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders/links/64da4aa4ad846e2882925089/Improving-Creativity-In-Humour-Generation-With-Conditional-Stochastic-Latent-Sampling-Encoders.pdf)).
+- My research with previous employers were all proprietary, but you'd like [this](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1.full.pdf) and [this](https://www.researchgate.net/profile/Henry_Ndubuaku/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders/links/64da4aa4ad846e2882925089/Improving-Creativity-In-Humour-Generation-With-Conditional-Stochastic-Latent-Sampling-Encoders.pdf)).
 - Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X after NanoDL &#x1F62D;.
 - After CUDARepo, Nvidia reached out, I did 6 technical rounds, got a verbal offer, back-and-forth over my YOE/pay, then I got into YCombinator.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with him and his post-doc.
