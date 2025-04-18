@@ -29,20 +29,20 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 [gmail-url]: mailto:henry@cactuscompute.com
 
 ### Technical Expertise 
-![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=khanacademy&logoColor=white)
-![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=laptop-code&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=brain&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=deepmind&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=nltk&logoColor=white)
-![Vision](https://img.shields.io/badge/Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-F4900C?style=for-the-badge&logo=huggingface&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
+![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=tiny&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=tiny&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-5C3EE8?style=for-the-badge&logo=tiny&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-F4900C?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Research Specialty 
 ![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-F4900C?style=for-the-badge&logo=huggingface&logoColor=white)
-![Distillation](https://img.shields.io/badge/Distillation-FFD700?style=for-the-badge&logo=brain&logoColor=white)
-![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-F4900C?style=for-the-badge&logo=tiny&logoColor=white)
+![Distillation](https://img.shields.io/badge/Distillation-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
+![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
