@@ -38,8 +38,8 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 
 ### Research Specialty 
 ![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tiny&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Decentralised AI](https://img.shields.io/badge/Decentralised_AI-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
-![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
