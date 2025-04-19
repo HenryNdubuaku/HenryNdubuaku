@@ -5,7 +5,7 @@
 [![Email][gmail1-shield]][gmail1-url]
 [![Spotify][spotify-shield]][spotify-url]
 
-[gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
+[gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=555
 [gmail1-url]: ndubuakuhenry@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
