@@ -14,7 +14,7 @@
 [twitter-shield]: https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=twitter&logoColor=555
 [twitter-url]: https://twitter.com/hmunachii
 
-[spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
+[spotify-shield]: https://img.shields.io/badge/Spotify-555?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/playlist/656vFNTyI2ZDsxgdQFaPHA?si=c2ff4aa84f6d42c4
 
 
