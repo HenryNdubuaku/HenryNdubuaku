@@ -32,9 +32,9 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-000000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Research Specialty 
 ![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tiny&logoColor=white)
