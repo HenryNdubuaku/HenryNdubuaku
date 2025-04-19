@@ -33,14 +33,12 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0355FA?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-5C3EE8?style=for-the-badge&logo=tiny&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-F4900C?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
+![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-000000?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Research Specialty 
 ![Tiny Models](https://img.shields.io/badge/Tiny_Models-FF6F00?style=for-the-badge&logo=tiny&logoColor=white)
-![Emerging Architectures](https://img.shields.io/badge/Emerging_Architectures-F4900C?style=for-the-badge&logo=tiny&logoColor=white)
-![Distillation](https://img.shields.io/badge/Distillation-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
+![Decentralised AI](https://img.shields.io/badge/Decentralised_AI-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
 ![Edge Optimisation](https://img.shields.io/badge/Edge_Optimisation-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Languages 
