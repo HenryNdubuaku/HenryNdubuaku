@@ -8,10 +8,10 @@
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
 [gmail1-url]: ndubuakuhenry@gmail.com
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=white
 [linkedin-url]: https://linkedin.com/in/henry-ndubuaku-7b6350b8
 
-[twitter-shield]: https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=twitter&logoColor=555
+[twitter-shield]: https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/hmunachii
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-555?style=for-the-badge&logo=spotify&logoColor=white
