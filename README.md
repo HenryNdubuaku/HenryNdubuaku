@@ -89,9 +89,10 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - It often takes 120% effort, focus and passion, failure often results from giving less. 
 
 ### Future PhD Interests 
-- Tiny Realtime Neural-Decoding Models for Brain-Machine Interfaces. 
-- Offline Realtime On-Device Models for drones and aerial robots. 
-- Decentralised Compute Grid from Tiny Edge devices (phones, drones, robots). 
+- Realtime EEG-to-Instruction AI for Brain-Machine Interfaces (MS patients could prompt agents to execute tasks). 
+- RL Algorithm for Distilling a User's Cognitive Signatures into a Model (imagine your proxy, need to define "signatures"). 
+- Realtime Visual-Action World Models for drones, aerial robots, phones, tiny robots etc. 
+- Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
 
 ### Working Profiency (not the best)
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
