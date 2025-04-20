@@ -83,8 +83,15 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Recieved the British Talent Immigration within 24hrs of application (no prority appeal or anything).
 
 ### Life Principles
-- When the talented fail to work hard, the hard workes beat the talented.
-- Everything should be an adventure, not a race.
+- When the talented fail to work hard, the hardworking beat the talented.
+- Everything should be an adventure, not a race, everyone gets their moment someday.
+- Make the best of your situation, complaining and pointing fingers do nothing. 
+- It often takes 120% effort, focus and passion, failure often results from giving less. 
+
+### Future PhD Interests 
+- Tiny Realtime Neural-Decoding Models for Brain-Machine Interfaces. 
+- Offline Realtime On-Device Models for drones and aerial robots. 
+- Decentralised Compute Grid from Tiny Edge devices (phones, drones, robots). 
 
 ### Working Profiency (not the best)
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
