@@ -1,4 +1,4 @@
-# Hi! I'm Henry 👋
+# Henry Ndubuaku
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -65,7 +65,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Career 
+### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
 - **2024-25:** Deep Render - AI Research Engineer (Tiny AI models for realtime video compression)
 - **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
@@ -73,8 +73,9 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
 - **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
 
-### Fun Facts 
+### Fun Highlights 
 - My research with previous employers were all proprietary, but you'd like [this](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1.full.pdf) and [this](https://www.researchgate.net/profile/Henry_Ndubuaku/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders/links/64da4aa4ad846e2882925089/Improving-Creativity-In-Humour-Generation-With-Conditional-Stochastic-Latent-Sampling-Encoders.pdf).
+- I wrote this handbook and executable code for maths, ML, and computing, ideal for diving into the depth of ML foundations [Open in Colab](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
 - Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X after NanoDL.
 - After CUDARepo, Nvidia reached out, I did 6 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
@@ -94,8 +95,10 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Realtime Visual-Action World Models for drones, aerial robots, phones, tiny robots etc. 
 - Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
 
-### Working Profiency (not the best)
+### Working Profiency (Know a bit, hate em)
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
