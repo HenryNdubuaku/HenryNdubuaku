@@ -82,6 +82,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - I contribute to the JAX ecosystem, and am a Google Developer Expert in AI and JAX.
 - Recieved the British Talent Immigration within 24hrs of application (no prority appeal or anything).
 - I co-host [this monthly dinner](https://lu.ma/ldnnexus) for AI researchers, engineers and founders in London.
+- I gave [this lecture](https://www.youtube.com/live/GJYpAl8pHmI?si=t4CTT9ndeu4EKItc) to a small ML group in Nigeria, on optimising large-scale ML in JAX.  
 
 ### Life Principles
 - When the talented fail to work hard, the hardworking beat the talented.
