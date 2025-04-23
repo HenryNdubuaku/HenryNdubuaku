@@ -81,6 +81,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing architecture off-head!
 - I contribute to the JAX ecosystem, and am a Google Developer Expert in AI and JAX.
 - Recieved the British Talent Immigration within 24hrs of application (no prority appeal or anything).
+- I co-host [this monthly dinner](https://lu.ma/ldnnexus) for AI researchers, engineers and founders in London.
 
 ### Life Principles
 - When the talented fail to work hard, the hardworking beat the talented.
