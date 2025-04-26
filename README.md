@@ -34,7 +34,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal Perception](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed ML](https://img.shields.io/badge/Distributed_ML-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Expertise 
