@@ -33,8 +33,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![Machine Perception](https://img.shields.io/badge/Machine_Percetion-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
+![Multimodal Perception](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
@@ -48,7 +47,6 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-F04A24?style=for-the-badge&logo=vulkan&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
