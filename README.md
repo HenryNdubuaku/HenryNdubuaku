@@ -32,37 +32,23 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-
-### Research Specialty 
+![Multimodal Reasoning](https://img.shields.io/badge/Multimodal_Reasoning-000000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Machine Perception](https://img.shields.io/badge/Machine_Percetion-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed ML](https://img.shields.io/badge/Distributed_Systems-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
-### Programming Languages 
+### Programming Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frameworks 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=for-the-badge&logo=jax&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-F04A24?style=for-the-badge&logo=vulkan&logoColor=white)
-
-### Systems Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Beam](https://img.shields.io/badge/Beam-F9BF3B?style=for-the-badge&logo=apache-beam&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
@@ -96,7 +82,15 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Realtime Visual-Action World Models for drones, aerial robots, phones, tiny robots etc. 
 - Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
 
-### Working Profiency (Know a bit, hate em)
+### Working Profiency 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Beam](https://img.shields.io/badge/Beam-F9BF3B?style=for-the-badge&logo=apache-beam&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
