@@ -80,7 +80,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Realtime Visual-Action World Models for drones, aerial robots, phones, tiny robots etc. 
 - Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
 
-### Working Profiency 
+### Working Profiency (Not the best, I get by)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
