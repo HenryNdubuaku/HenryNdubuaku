@@ -49,7 +49,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Career Progression 
-- **2025-Present:** Cactus Compute (YC S25) - Founder & CTO
+- **2025-Present:** Cactus Compute (YC S25) - Founder 
 - **2024-25:** Deep Render - AI Research Engineer (Tiny AI models for realtime video compression)
 - **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
 - **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
