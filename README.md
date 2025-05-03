@@ -31,11 +31,11 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ### Technical Expertise 
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal Perception](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-326CE5?style=for-the-badge&logo=tiny&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Programming Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
