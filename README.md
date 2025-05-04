@@ -34,8 +34,9 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![Hardware-Aware AI](https://img.shields.io/badge/Hardware_Aware_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-purple?style=for-the-badge&logo=tiny&logoColor=white)
+![Hardware-Aware AI](https://img.shields.io/badge/Hardware_Aware_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
+![Realtime Edge AI](https://img.shields.io/badge/Realtime_Edge_AI-grey?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +55,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder 
-- **2024-25:** Deep Render - AI Research Engineer (Tiny AI models for realtime video compression)
+- **2024-25:** Deep Render - AI Research Engineer (Hardware-Aware models for realtime video codec)
 - **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
 - **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
 - **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
@@ -79,12 +80,12 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - It often takes 120% effort, focus and passion, failure often results from giving less. 
 
 ### Future PhD Interests 
-- Realtime EEG-to-Instruction AI for Brain-Machine Interfaces (MS patients could prompt agents to execute tasks). 
-- RL Algorithm for Distilling a User's Cognitive Signatures into a Model (imagine your proxy, need to define "signatures"). 
-- Realtime Visual-Action World Models for drones, aerial robots, phones, tiny robots etc. 
+- Hardware-Aware Realtime multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
+- Reinforcement Learning Algorithm for Distilling a User's Cognitive Persona into a Model. 
+- Realtime Multimodal World Models for phones, drones, VR headsets, medical devices etc. 
 - Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
 
-### Working Profiency (Not the best, I get by)
+### Working Profiency + Gemini Q/A
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
