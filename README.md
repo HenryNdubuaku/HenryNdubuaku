@@ -33,7 +33,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal Perception](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Hardware-Aware AI](https://img.shields.io/badge/Hardware_Aware_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-purple?style=for-the-badge&logo=tiny&logoColor=white)
 
