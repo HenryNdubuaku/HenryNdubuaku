@@ -23,7 +23,7 @@
 </p>
 
 
-Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url] 
+Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url], see pinned repo for my code samples.
 
 [gmail2-shield]: https://img.shields.io/badge/henry@cactuscompute.-555?style=flat
 [gmail-url]: mailto:henry@cactuscompute.com
