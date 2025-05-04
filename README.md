@@ -31,10 +31,10 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Machine_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Multimodal Perception](https://img.shields.io/badge/Multimodal_Perception-000000?style=for-the-badge&logo=tiny&logoColor=white)
+![Hardware-Aware AI](https://img.shields.io/badge/Hardware_Aware_AI-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed ML](https://img.shields.io/badge/Distributed_ML-purple?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
@@ -49,8 +49,8 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder 
