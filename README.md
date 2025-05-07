@@ -80,10 +80,9 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - It often takes 120% effort, focus and passion, failure often results from giving less. 
 
 ### Future PhD Interests 
-- Hardware-Aware Realtime multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
-- Reinforcement Learning Algorithm for Distilling a User's Cognitive Persona into a Model. 
-- Realtime Multimodal World Models for phones, drones, VR headsets, medical devices etc. 
-- Decentralised Compute Grid from Tiny Edge devices like phones, drones, robots (world models need more compute). 
+- Building realtime ML models directly into FGPAs for one of the following:
+  - Multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
+  - Multimodal World Models for phones, drones, VR headsets, medical devices etc. 
 
 ### Working Profiency + Gemini Q/A
 ![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
