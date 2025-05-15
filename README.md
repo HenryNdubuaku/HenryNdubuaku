@@ -85,10 +85,6 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
   - Multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
   - Multimodal World Models for phones, drones, VR headsets, medical devices etc. 
 
-### Working Profiency + Gemini Q/A
-![JS/TS](https://img.shields.io/badge/JS/TS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
+### Blog Posts with original findings and solutions.
+- [Analytically approximating portions of transformers to reduce parameters.](parameter-efficient-transformer-embeddings.md)
+- [Optimizing AI on Mobile Devices: A Hardware-Centric Approach](hardware-aware-mobile-AI.md)
