@@ -70,12 +70,6 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
 
-### Life Principles
-- When the talented fail to work hard, the hardworking beat the talented.
-- Everything should be an adventure, not a race, everyone gets their moment someday.
-- Make the best of your situation, complaining and pointing fingers do nothing. 
-- It often takes 120% effort, focus and passion, failure often results from giving less. 
-
 ### Future PhD Interests 
 - Building realtime ML models directly into FGPAs for one of the following:
   - Multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
@@ -85,4 +79,8 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 - [Analytically approximating portions of transformers to reduce parameters.](parameter-efficient-transformer-embeddings.md)
 - [Optimizing AI on Mobile Devices: A Hardware-Centric Approach](hardware-aware-mobile-AI.md)
 
-Checkout the pinned repositories for more!
+### Life Principles
+- When the talented fail to work hard, the hardworking beat the talented.
+- Everything should be an adventure, not a race, everyone gets their moment someday.
+- Make the best of your situation, complaining and pointing fingers do nothing. 
+- It often takes 120% effort, focus and passion, failure often results from giving less. 
