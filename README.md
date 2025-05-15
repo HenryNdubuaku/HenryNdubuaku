@@ -64,7 +64,7 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
 ### Fun Highlights 
 - I authored Parameter Efficient Transformer Embeddings Paper [here](https://www.arxiv.org/abs/2505.02266)
 - My research with previous employers were all proprietary, but you'd like [this](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1.full.pdf) and [this](https://www.researchgate.net/profile/Henry_Ndubuaku/publication/373111729_Improving_Creativity_In_Humour_Generation_With_Conditional_Stochastic_Latent-Sampling_Encoders/links/64da4aa4ad846e2882925089/Improving-Creativity-In-Humour-Generation-With-Conditional-Stochastic-Latent-Sampling-Encoders.pdf).
-- I wrote [This ML Handbook](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing). and executable code for maths, ML, and computing, ideal for diving into the depth of ML foundations
+- I wrote [Math For ML By Henry Ndubuaku (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing). and executable code for maths, ML, and computing, ideal for diving into the depth of ML foundations
 - Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
@@ -85,6 +85,6 @@ Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML S
   - Multimodal EEG-to-Instruction AI for Brain-Machine Interfaces
   - Multimodal World Models for phones, drones, VR headsets, medical devices etc. 
 
-### Blog Posts with original findings and solutions.
+### Blog Posts
 - [Analytically approximating portions of transformers to reduce parameters.](parameter-efficient-transformer-embeddings.md)
 - [Optimizing AI on Mobile Devices: A Hardware-Centric Approach](hardware-aware-mobile-AI.md)
