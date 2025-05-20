@@ -23,7 +23,7 @@
 </p>
 
 
-BEng EECS ->  MSc AI ->  ML Software Engineer -> AI Research Engineer -> Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), an Open-Source framework for running SOTA LLMs, VLMs and TTS models on mobile phones & wearables. Backed by YCombinator, Oxford Seed Fund and Google for Startups, see pinned repo for my code samples.
+BEng EECS ->  MSc AI ->  ML Software Engineer -> AI Research Engineer -> Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), an Open-Source framework for running SOTA LLMs, VLMs and TTS models on mobile phones & wearables. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
