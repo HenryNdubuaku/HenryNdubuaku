@@ -23,10 +23,7 @@
 </p>
 
 
-Studied Electronics & Computing, with a masters in Maths & AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building an Open-Source framework for edge ML (Cactus), with funding from YCombinator, Oxford Seed Fund and Google for Startups [![Work email][gmail2-shield]][gmail-url], see pinned repo for my code samples.
-
-[gmail2-shield]: https://img.shields.io/badge/henry@cactuscompute.-555?style=flat
-[gmail-url]: mailto:henry@cactuscompute.com
+Studied BEng EECS + MSc AI, worked as an ML Software Engineer, then an AI Research Engineer, now Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), an Open-Source framework for running SOTA LLM, VLM and TTS models on mobile phones. Funding from YCombinator, Oxford Seed Fund and Google for Startups, see pinned repo for my code samples.
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
