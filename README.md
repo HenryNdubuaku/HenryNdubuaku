@@ -52,11 +52,12 @@ BEng EECS ->  MSc AI ->  ML Software Engineer -> AI Research Engineer -> Buildin
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder 
-- **2024-25:** Deep Render - AI Research Engineer (Hardware-Aware models for realtime video codec)
-- **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery)
-- **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.)
-- **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc)
-- **2014-18:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
+- **2024-25:** Deep Render - AI Research Engineer (Hardware-Aware models for realtime video codec).
+- **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery).
+- **2019-21:** Open-source activities during MSc (NanoDl, SuperLazyLLM, CUDARepo, etc.).
+- **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc).
+- **2017-18:** Military service, posted to software engineering after bootcamp. 
+- **2013-17:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
 - I wrote [Math For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
