@@ -30,8 +30,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_ML-purple?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-purple?style=for-the-badge&logo=tiny&logoColor=white)
 ![GPU Programing](https://img.shields.io/badge/GPU_Programming-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
