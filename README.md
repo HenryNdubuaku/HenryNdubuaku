@@ -23,13 +23,13 @@
 </p>
 
 
-Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), an Open-Source framework for running SOTA LLMs, VLMs and TTS models on mobile phones & wearables. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
+Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
+![RL](https://img.shields.io/badge/RL-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-purple?style=for-the-badge&logo=tiny&logoColor=white)
 ![GPUs](https://img.shields.io/badge/GPUs-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
