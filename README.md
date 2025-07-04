@@ -25,7 +25,7 @@
 
 Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
-### Expertise 
+### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
 ![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
@@ -33,7 +33,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![GPUs](https://img.shields.io/badge/GPUs-556B2F?style=flat&logo=tiny&logoColor=white)
 ![HPC](https://img.shields.io/badge/HPC-708090?style=flat&logo=tiny&logoColor=white)
 
-### Tools 
+### Main Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -44,7 +44,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
 
 ### Career Progression 
-- **2025-Present:** Cactus Compute (YC S25) - Founder 
+- **2025-Present:** Cactus (YC S25) - Founder & CTO 
 - **2024-25:** Deep Render - AI Research Engineer (Hardware-Aware models for realtime video codec).
 - **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery).
 - **2019-21:** MSc + Open-source activities (NanoDl, SuperLazyAutograd, CUDARepo, etc.).
