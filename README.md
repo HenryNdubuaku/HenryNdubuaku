@@ -28,7 +28,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-black?style=for-the-badge&logo=tiny&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B4513?style=for-the-badge&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-DECFC0?style=for-the-badge&logo=tiny&logoColor=white)
 ![RL](https://img.shields.io/badge/RL-20B2AA?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-556B2F?style=for-the-badge&logo=tiny&logoColor=white)
 ![GPUs](https://img.shields.io/badge/GPUs-2E8B57?style=for-the-badge&logo=tiny&logoColor=white)
