@@ -26,13 +26,13 @@
 Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
-![Maths](https://img.shields.io/badge/Maths-4B8BBE?style=for-the-badge&logo=tiny&logoColor=white)
-![Computing](https://img.shields.io/badge/Computing-8A2BE2?style=for-the-badge&logo=tiny&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-F39C12?style=for-the-badge&logo=tiny&logoColor=white)
-![RL](https://img.shields.io/badge/RL-0A84FF?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-9B59B6?style=for-the-badge&logo=tiny&logoColor=white)
-![GPUs](https://img.shields.io/badge/GPUs-27AE60?style=for-the-badge&logo=tiny&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-16A085?style=for-the-badge&logo=tiny&logoColor=white)
+![Maths](https://img.shields.io/badge/Maths-DAA520?style=for-the-badge&logo=tiny&logoColor=white)
+![Computing](https://img.shields.io/badge/Computing-FF1493?style=for-the-badge&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF8C00?style=for-the-badge&logo=tiny&logoColor=white)
+![RL](https://img.shields.io/badge/RL-20B2AA?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-8B4513?style=for-the-badge&logo=tiny&logoColor=white)
+![GPUs](https://img.shields.io/badge/GPUs-2E8B57?style=for-the-badge&logo=tiny&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-FF4500?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
