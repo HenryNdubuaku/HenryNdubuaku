@@ -26,7 +26,7 @@
 Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
-![Maths](https://img.shields.io/badge/Maths-navy?style=for-the-badge&logo=tiny&logoColor=white)
+![Maths](https://img.shields.io/badge/Maths-3C3C6E?style=for-the-badge&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-black?style=for-the-badge&logo=tiny&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF8C00?style=for-the-badge&logo=tiny&logoColor=white)
 ![RL](https://img.shields.io/badge/RL-20B2AA?style=for-the-badge&logo=tiny&logoColor=white)
