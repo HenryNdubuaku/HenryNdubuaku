@@ -31,7 +31,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-purple?style=for-the-badge&logo=tiny&logoColor=white)
-![GPU Programing](https://img.shields.io/badge/GPU_Programming-76B900?style=for-the-badge&logo=tiny&logoColor=white)
+![GPUs](https://img.shields.io/badge/GPUs-76B900?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,6 +40,8 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=for-the-badge&logo=jax&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Career Progression 
