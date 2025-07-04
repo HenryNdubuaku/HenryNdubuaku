@@ -26,12 +26,13 @@
 Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
-![Maths](https://img.shields.io/badge/Maths-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
-![Computing](https://img.shields.io/badge/Computing-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-F9BF3B?style=for-the-badge&logo=tiny&logoColor=white)
-![RL](https://img.shields.io/badge/RL-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-purple?style=for-the-badge&logo=tiny&logoColor=white)
-![GPUs](https://img.shields.io/badge/GPUs-76B900?style=for-the-badge&logo=tiny&logoColor=white)
+![Maths](https://img.shields.io/badge/Maths-4B8BBE?style=for-the-badge&logo=tiny&logoColor=white)
+![Computing](https://img.shields.io/badge/Computing-8A2BE2?style=for-the-badge&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F39C12?style=for-the-badge&logo=tiny&logoColor=white)
+![RL](https://img.shields.io/badge/RL-0A84FF?style=for-the-badge&logo=tiny&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-9B59B6?style=for-the-badge&logo=tiny&logoColor=white)
+![GPUs](https://img.shields.io/badge/GPUs-27AE60?style=for-the-badge&logo=tiny&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-16A085?style=for-the-badge&logo=tiny&logoColor=white)
 
 ### Engineering Expertise 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +43,6 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder 
