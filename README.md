@@ -44,9 +44,9 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
 
 ### Career Progression 
-- **2025-Present:** Cactus (YC S25) - Founder & CTO 
-- **2024-25:** Deep Render - AI Research Engineer (Hardware-Aware models for realtime video codec).
-- **2021-24:** Wisdm - ML Software Engineer (Perception AI for Maxar Defence satelite imagery).
+- **2025-Present:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
+- **2024-25:** Deep Render - AI Research Engineer (hardware-aware models for realtime video codec).
+- **2021-24:** Wisdm - ML Software Engineer (perception AI for Maxar Defence satelite imagery).
 - **2019-21:** MSc + Open-source activities (NanoDl, SuperLazyAutograd, CUDARepo, etc.).
 - **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc).
 - **2017-18:** Military service, posted to software engineering after bootcamp. 
