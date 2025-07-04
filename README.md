@@ -25,24 +25,24 @@
 
 Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
-### Core Expertise 
-![Maths](https://img.shields.io/badge/Maths-DE713C?style=for-the-badge&logo=tiny&logoColor=white)
-![Computing](https://img.shields.io/badge/Computing-black?style=for-the-badge&logo=tiny&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-DECFC0?style=for-the-badge&logo=tiny&logoColor=white)
-![RL](https://img.shields.io/badge/RL-20B2AA?style=for-the-badge&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=for-the-badge&logo=tiny&logoColor=white)
-![GPUs](https://img.shields.io/badge/GPUs-556B2F?style=for-the-badge&logo=tiny&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-708090?style=for-the-badge&logo=tiny&logoColor=white)
+### Expertise 
+![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
+![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-DECFC0?style=flat&logo=tiny&logoColor=white)
+![RL](https://img.shields.io/badge/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=flat&logo=tiny&logoColor=white)
+![GPUs](https://img.shields.io/badge/GPUs-556B2F?style=flat&logo=tiny&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-708090?style=flat&logo=tiny&logoColor=white)
 
-### Engineering Expertise 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=for-the-badge&logo=jax&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=for-the-badge&logo=apple&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+### Tools 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=flat&logo=jax&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=flat&logo=apple&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus Compute (YC S25) - Founder 
