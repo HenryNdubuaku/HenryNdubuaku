@@ -44,7 +44,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![k8](https://img.shields.io/badge/K8-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ### Career Progression 
