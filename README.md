@@ -34,18 +34,18 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![HPC](https://img.shields.io/badge/HPC-708090?style=flat&logo=tiny&logoColor=white)
 
 ### Main Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=flat&logo=jax&logoColor=white)  
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)  
-![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=flat&logo=apple&logoColor=white)  
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)  
-![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-6A5ACD?style=flat&logo=jax&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=flat&logo=apple&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ### Career Progression 
 - **2025-Present:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
