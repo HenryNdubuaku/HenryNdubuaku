@@ -43,12 +43,12 @@ I build AI/ML models, from the fundamental maths, to building with JAX/Torch on 
 ![Cloud](https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Career Progression 
-- **2025-Present:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
-- **2024-25:** Deep Render - AI Research Engineer (hardware-aware models for realtime video codec).
-- **2021-24:** Wisdm - ML Software Engineer (perception AI for Maxar Defence satelite imagery).
-- **2019-21:** MSc + Open-source activities (NanoDl, SuperLazyAutograd, CUDARepo, etc.).
-- **2018-19:** Google Africa Developer Scholarship Programme with Andela (pre-MSc).
-- **2017-18:** Military service, posted to software engineering after bootcamp. 
+- **2025-XX:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
+- **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phone GPU/NPU).
+- **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
+- **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
+- **2018-19:** Google GADS Scholarship Programme with Andela (pre-MSc), around systems design.
+- **2017-18:** Military service, posted to software engineering after bootcamp, mostly Neon intrinsics. 
 - **2011-16:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
