@@ -30,7 +30,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
 ![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=flat&logo=tiny&logoColor=white)
-![GPUs](https://img.shields.io/badge/GPUs/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
 
 ### Main Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
