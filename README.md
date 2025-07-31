@@ -23,15 +23,14 @@
 </p>
 
 
-Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), Ollama for smartphones. Backed by YCombinator, Oxford Seed Fund and Google for Startups.
+Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), backed by YCombinator, Oxford Seed Fund and Google for Startups.
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
 ![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=flat&logo=tiny&logoColor=white)
-![GPUs](https://img.shields.io/badge/GPUs-556B2F?style=flat&logo=tiny&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-708090?style=flat&logo=tiny&logoColor=white)
+![GPUs](https://img.shields.io/badge/GPUs/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
 
 ### Main Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,10 +40,7 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![k8](https://img.shields.io/badge/K8-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Career Progression 
 - **2025-Present:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
