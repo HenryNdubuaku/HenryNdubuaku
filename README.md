@@ -39,7 +39,6 @@ Building [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=g
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Jax](https://img.shields.io/badge/Jax-purple?style=flat&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Metal](https://img.shields.io/badge/Metal-A2AAAD?style=flat&logo=apple&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
