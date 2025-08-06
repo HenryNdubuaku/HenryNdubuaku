@@ -30,7 +30,7 @@ I build AI/ML models & systems, from the fundamental maths to JAX/Torch on large
 ![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
 ![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=flat&logo=tiny&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU/TPU/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
 
 ### Main Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,8 +48,8 @@ I build AI/ML models & systems, from the fundamental maths to JAX/Torch on large
 - **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
 - **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
 - **2018-19:** Google GADS Scholarship Programme with Andela (pre-MSc), around systems design.
-- **2017-18:** Military service, posted to software engineering after bootcamp, mostly Neon intrinsics. 
-- **2011-16:** Uni coursework in computing, electronics, data structures, algorithms, maths, physics.
+- **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
+- **2011-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
 - Wrote [Math For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
