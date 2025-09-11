@@ -49,7 +49,7 @@ I build AI/ML models & systems, from the fundamental maths to JAX/Torch on large
 - **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
 - **2018-19:** Google GADS Scholarship Programme with Andela (pre-MSc), around systems design.
 - **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
-- **2011-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
+- **2013-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
 - Wrote [Math For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
