@@ -23,7 +23,7 @@
 </p>
 
 
-I build AI/ML models & systems, from the fundamental maths, to JAX/Torch on large-scale infra, to low-level implementations on accelerators. Author of [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), 3k stars, now backed by YCombinator.
+I build artificial intelligence at any scale; from the fundamental maths and low-level implementations on accelerators to large scale distributed deep learning. Author of [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus), backed by YCombinator, Oxford and 62 tech CTOs/VP Eng.
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
