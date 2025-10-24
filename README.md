@@ -33,7 +33,7 @@ We named it after a plant that survives in resource-constrained environments, Ca
 while only draining 10% battery per hour of continuous inference.
 
 I had a verbal offer from Nvidia, my dream company, but passed on to build this.
-We raised funding YCombinator, FCVC, Oxford University and 62 tech CTOs/VP Eng.
+We raised funding from YCombinator, FCVC, Oxford University and 62 tech CTOs/VP Eng.
 
 Cactus now has 3.6k GitHub stars and runs 500k weekly inference tasks in production for 90 products. 
 
