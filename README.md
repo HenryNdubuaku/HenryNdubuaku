@@ -28,10 +28,14 @@ It will take 360 days on 20B tokens of training data and use 156KW of electricit
 
 The phone will fry of course, so I wrote algorithms to run inference on your phone rather. 
 We named it after a plant that survives in resource-constrained environments, Cactus. 
+
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) can run similar model on your Grandma’s Pixel 6a at 36 tokens/second 
 while only draining 10% battery per hour of continuous inference.
 
+I had a verbal offer from Nvidia, my dream company, but passed on to build this.
 We raised funding YCombinator, FCVC, Oxford University and 62 tech CTOs/VP Eng.
+
+Cactus now has 3.6k GitHub stars and runs 500k weekly inference tasks in production for 90 products. 
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
