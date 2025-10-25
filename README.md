@@ -64,10 +64,10 @@ Cactus now has 3.6k GitHub stars and runs 500k weekly inference tasks in product
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
-- Wrote [Math For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
+- Wrote [Math & CS For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
 - Gave [this lecture](https://www.youtube.com/live/GJYpAl8pHmI?si=t4CTT9ndeu4EKItc) to a small ML group in Nigeria, on optimising large-scale ML in JAX.
 - Co-host [this monthly dinner](https://lu.ma/ldnnexus) for AI researchers, engineers and founders in London. 
-- Kevin Murphy (DeepMind Principal), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
+- Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
