@@ -34,13 +34,17 @@ while only draining 10% battery per hour of continuous inference and using 250MB
 
 I had an offer from Nvidia, one of my dream companies, but went on to build Cactus in Jan 2025.
 Cactus launched July 2025, grew to 4k GitHub stars and completed 10m inference tasks across 900+ projects in 2025. 
-We grew to a team of 8 exceptionally gifted research engineers from UCLA/Nokia/Google/Stanford/Oxford.
 
 Cactus raised funding in Aug 2025 from YCombinator, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
-Oxford, 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders,
+Oxford, 6 smaller funds like Transpose (run by Garry Tan's brother).
+
+Besides VCs, Cactus also gilot checks from fellow YC founders, as well as 
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
-Cactus is now expanding to commercial projects but I wont share details, shoo!
+We have now grown 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
+The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI and Yale's YAA. 
+
+Follow the journey!
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
