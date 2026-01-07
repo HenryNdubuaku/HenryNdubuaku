@@ -27,16 +27,20 @@ I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec.
 It will take 360 days on 20B tokens of training data and use 156KW of electricity which cost $51. 
 
 The phone will fry of course, so I wrote algorithms to run inference on your phone rather. 
-We named it after a plant that survives in resource-constrained environments, Cactus. 
+We named it after a plant that survives in resource-constrained environments, the Cactus. 
 
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) can run similar model on your Grandma’s Pixel 6a at 36 tokens/second 
-while only draining 10% battery per hour of continuous inference.
+while only draining 10% battery per hour of continuous inference and using 250MB RAM only.  
 
-I had a verbal offer from Nvidia, my dream company, but passed on to build this.
-Cactus now has 3.8k GitHub stars and have completed 6m inference tasks in production. 
+I had an offer from Nvidia, one of my dream companies, but went on to build Cactus in Jan 2025.
+Cactus launched July 2025, grew to 4k GitHub stars and completed 10m inference tasks across 900+ projects in 2025. 
+We grew to a team of 8 exceptionally gifted research engineers from UCLA/Nokia/Google/Stanford/Oxford.
 
-We raised funding from YCombinator, FCVC, Oxford University, 62 tech CTOs/VP Eng, 
-our fellow YC batchmates, a couple DeepMind engineers and Transpose (Garry Tan's brother).
+Cactus raised funding in Aug 2025 from YCombinator, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
+Oxford, 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders,
+62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
+
+Cactus is now expanding to commercial projects but I wont share details, shoo!
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
