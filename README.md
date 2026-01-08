@@ -42,7 +42,7 @@ Besides VCs, Cactus also gilot checks from fellow YC founders, as well as
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
 We have now grown 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
-The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI and Yale's YAA. 
+The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI, Yale's YAA and NUS's SCAIS. 
 
 Follow the journey!
 
