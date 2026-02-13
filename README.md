@@ -73,7 +73,7 @@ Follow the journey!
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
-- Wrote [Math & CS For ML (with codes)](https://colab.research.google.com/drive/1ftH86vZMbspy1QvW4cHlTTv3GOMmdZ_H?usp=sharing).
+- Wrote [Math + CS + AI (with codes)](https://github.com/HenryNdubuaku/maths-computing-ai).
 - Gave [this lecture](https://www.youtube.com/live/GJYpAl8pHmI?si=t4CTT9ndeu4EKItc) to a small ML group in Nigeria, on optimising large-scale ML in JAX.
 - Co-host [this monthly dinner](https://lu.ma/ldnnexus) for AI researchers, engineers and founders in London. 
 - Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
