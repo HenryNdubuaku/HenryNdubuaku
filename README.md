@@ -42,7 +42,7 @@ Besides VCs, Cactus also gilot checks from fellow YC founders, as well as
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
 We have now grown 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
-The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI, Yale's YAA and NUS's SCAIS. 
+The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI, Yale's YAA, NUS's SCAIS and more! 
 
 Follow the journey!
 
@@ -80,3 +80,15 @@ Follow the journey!
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
+
+### 2026 Wishlist
+
+- Publish Cactus Paper -> 10m devices, $3m MRR, $1B clean valuatiuon. 
+- Finish ongoing potentially groundbreaking research & Apply to PhD by publication. 
+
+### Personal Life
+
+- Profile: Nigerian, 30y, 185m, 83kg, Capricorn & speak Igbo fluently!
+- Hobbies: calisthenics, UFC, chess, music, dance 
+- Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike.
+- Philosophy: Humanist Christian, Unpolitical 
