@@ -32,16 +32,15 @@ We named it after a plant that survives in resource-constrained environments, th
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) can run similar model on your Grandma’s Pixel 6a at 36 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only.  
 
-I had an offer from Nvidia, one of my dream companies, but went on to build Cactus in Jan 2025.
 Cactus launched July 2025, grew to 4k GitHub stars and completed 10m inference tasks across 900+ projects in 2025. 
 
 Cactus raised funding in Aug 2025 from YCombinator, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
 Oxford, 6 smaller funds like Transpose (run by Garry Tan's brother).
 
-Besides VCs, Cactus also gilot checks from fellow YC founders, as well as 
+Besides VCs, Cactus also received checks from fellow YC founders, as well as 
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
-We have now grown 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
+We have now grown to 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
 The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI, Yale's YAA, NUS's SCAIS and more! 
 
 Follow the journey!
