@@ -22,28 +22,30 @@
   <img src="assets/banner.gif" width=1024>
 </p>
 
-
 I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
 It will take 360 days on 20B tokens of training data and use 156KW of electricity which cost $51. 
-
 The phone will fry of course, so I wrote algorithms to run inference on your phone rather. 
 We named it after a plant that survives in resource-constrained environments, the Cactus. 
 
-[![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) can run similar model on your Grandma’s Pixel 6a at 36 tokens/second 
+[![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) 
+can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only.  
+YCombinator & Oxford's Seed Fund gave us first checks in July 2025, and we released Cactus v1 in Sep 2025. 
 
-Cactus launched July 2025, grew to 4k GitHub stars and completed 10m inference tasks across 900+ projects in 2025. 
-
-Cactus raised funding in Aug 2025 from YCombinator, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
-Oxford, 6 smaller funds like Transpose (run by Garry Tan's brother).
-
+Ofc, we took even more money from FCVC 
+(portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
+and 6 smaller funds like Transpose (run by Garry Tan's brother). 
 Besides VCs, Cactus also received checks from fellow YC founders, as well as 
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
-We have now grown to 8 exceptionally gifted MTS from UCLA, Nokia, Google, Stanford, Oxford. 
-The project is now also maintaiained by UCLA's BruinAI, UWaterloo's WatAI, Yale's YAA, NUS's SCAIS and more! 
+We have now grown to 4.4k GitHub stars, power cool products you've probably heard of. 
+6 exceptionally gifted Research Engineers from UCLA, Nokia, Google, Stanford, Oxford have joined us!
+The project is also co-maintained by groups at UCLA, Yale, Upenn, Imperial, Georgia, NUS, UCI, CU Boulder
+and UCI. 
 
-Follow the journey!
+I always dreamt of joining DeepMind, Waymo or Nvidia, even had an offer from one of those. 
+But I might be up to something here, who knows? I want Cactus to hit $1m MRR this year, but I might
+legit be a crazy person...pending official diagnosis. 
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
@@ -72,22 +74,15 @@ Follow the journey!
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
-- Wrote [Math + CS + AI (with codes)](https://github.com/HenryNdubuaku/maths-computing-ai).
-- Gave [this lecture](https://www.youtube.com/live/GJYpAl8pHmI?si=t4CTT9ndeu4EKItc) to a small ML group in Nigeria, on optimising large-scale ML in JAX.
-- Co-host [this monthly dinner](https://lu.ma/ldnnexus) for AI researchers, engineers and founders in London. 
+- Wrote [Maths, CS & AI Compendium)](https://henryndubuaku.github.io/maths-cs-ai-compendium/), a veeery unconventional textbook.
 - Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
 
-### 2026 Wishlist
-
-- Publish Cactus Paper -> 10m devices, $3m MRR, $1B clean valuatiuon. 
-- Finish ongoing potentially groundbreaking research & Apply to PhD by publication. 
-
 ### Personal Life
 
-- Profile: Nigerian, 30y, 185m, 83kg, Capricorn & speak Igbo fluently!
+- Profile: Nigerian, 30y, 185m, 83kg, Capricorn & speak Igbo fluently 
 - Hobbies: calisthenics, UFC, chess, music, dance 
-- Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike.
-- Philosophy: Humanist Christian, Unpolitical 
+- Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike 
+- Philosophy: Humanist Christian, unpolitical 
