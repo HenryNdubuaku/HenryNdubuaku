@@ -29,8 +29,7 @@ We named it after a plant that survives in resource-constrained environments, th
 
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) 
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
-while only draining 10% battery per hour of continuous inference and using 250MB RAM only.  
-YCombinator & Oxford's Seed Fund gave us first checks in July 2025, and we released Cactus v1 in Sep 2025. 
+while only draining 10% battery per hour of continuous inference and using 250MB RAM only. YCombinator & Oxford's Seed Fund gave us first checks in July 2025, and we released Cactus v1 in Sep 2025. 
 
 Ofc, we took even more money from FCVC 
 (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
