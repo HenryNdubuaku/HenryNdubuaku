@@ -73,7 +73,7 @@ legit be a crazy person...pending official diagnosis.
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Fun Highlights 
-- Wrote [Maths, CS & AI Compendium)](https://henryndubuaku.github.io/maths-cs-ai-compendium/), a veeery unconventional textbook.
+- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), a veeery unconventional textbook.
 - Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
