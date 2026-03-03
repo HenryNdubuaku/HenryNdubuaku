@@ -26,7 +26,11 @@ jobs:
         run: pip install mkdocs-material
 
       - name: Prepare docs
-        run: mkdir -p docs && cp README.md docs/index.md && cp -r assets docs/assets
+        run: |
+          mkdir -p docs
+          cp README.md docs/index.md
+          cp -r assets docs/assets
+          cp -r stylesheets docs/stylesheets
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
