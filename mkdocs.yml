@@ -1,0 +1,63 @@
+site_name: Henry Ndubuaku
+site_description: Personal website and technical writing by Henry Ndubuaku – Co-founder & CTO of Cactus (YC S25).
+site_author: Henry Ndubuaku
+site_url: https://henryndubuaku.github.io/HenryNdubuaku/
+
+repo_name: HenryNdubuaku/HenryNdubuaku
+repo_url: https://github.com/HenryNdubuaku/HenryNdubuaku
+edit_uri: edit/master/README.md
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/henry-ndubuaku-7b6350b8
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/hmunachii
+    - icon: fontawesome/brands/github
+      link: https://github.com/HenryNdubuaku
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/playlist/656vFNTyI2ZDsxgdQFaPHA?si=c2ff4aa84f6d42c4
+
+copyright: Copyright &copy; 2025 Henry Ndubuaku
