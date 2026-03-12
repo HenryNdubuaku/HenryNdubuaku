@@ -22,28 +22,28 @@
   <img src="assets/banner.gif" width=1024>
 </p>
 
-I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
+Honestly, I'm a nobody, no pedigree, probably not whom labs like DeepMind, Meta would go after. 
+I always dreamt of joining DeepMind, Waymo or Nvidia but never qualified as home student for Phd funding, stopped at MSc. 
+
+Nonetheless, I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
 It will take 360 days on 20B tokens of training data and use 156KW of electricity which cost $51. 
 The phone will fry of course, so I wrote algorithms to run inference on your phone rather. 
 We named it after a plant that survives in resource-constrained environments, the Cactus. 
 
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) 
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
-while only draining 10% battery per hour of continuous inference and using 250MB RAM only. YCombinator & Oxford's Seed Fund gave us first checks in July 2025, and we released Cactus v1 in Sep 2025. 
+while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
 
-Ofc, we took even more money from FCVC 
-(portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
-and 6 smaller funds like Transpose (run by Garry Tan's brother). 
-Besides VCs, Cactus also received checks from fellow YC founders, as well as 
+We raised some money from YCombinator, Oxford's Seed Fund, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
+and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, as well as 
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
-We have now grown to 4.4k GitHub stars, power cool products you've probably heard of. 
-6 exceptionally gifted Research Engineers from UCLA, Nokia, Google, Stanford, Oxford have joined us!
+Cactus now powers cool products you've probably heard of. 
+6 exceptionally gifted "Cactus Jacks" from UCLA, Nokia, Google, Stanford, Oxford have joined us!
 The project is also co-maintained by groups at UCLA, Yale, Upenn, Imperial, Georgia, NUS, UCI, CU Boulder
 and UCI. 
 
-I always dreamt of joining DeepMind, Waymo or Nvidia, even had an offer from one of those. 
-But I might be up to something here, who knows? I want Cactus to hit $1m MRR this year, but I might
+I want Cactus to hit $1m MRR this year, but I might
 legit be a crazy person...pending official diagnosis. 
 
 ### Core Expertise 
