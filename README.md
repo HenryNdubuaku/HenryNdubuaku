@@ -22,7 +22,7 @@
   <img src="assets/banner.gif" width=1024>
 </p>
 
-Honestly, I'm a nobody, no pedigree, probably not whom labs like DeepMind, Meta would go after. 
+Honestly, I'm a nobody, no pedigree, probably not whom labs like OpenAI, Meta, Anthropic would go after. 
 I always dreamt of joining DeepMind, Waymo or Nvidia but never qualified as home student for Phd funding, stopped at MSc. 
 
 Nonetheless, I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
@@ -43,8 +43,7 @@ Cactus now powers cool products you've probably heard of.
 The project is also co-maintained by groups at UCLA, Yale, Upenn, Imperial, Georgia, NUS, UCI, CU Boulder
 and UCI. 
 
-I want Cactus to hit $1m MRR this year, but I might
-legit be a crazy person...pending official diagnosis. 
+Same destination, just a different route! 
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
