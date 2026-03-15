@@ -85,4 +85,4 @@ Same destination, just a different route!
 - Language: English, Igbo, German (barely), French (yikes)
 - Hobbies: calisthenics, UFC, chess, music, dance 
 - Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike 
-- Philosophy: Humanist Christian, unpolitical (hunanity comes before my opinions)
+- Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
