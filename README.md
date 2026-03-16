@@ -23,7 +23,7 @@
 </p>
 
 Honestly, I'm a nobody, no pedigree, probably not whom labs like OpenAI, Meta, Anthropic would go after. 
-I always dreamt of joining DeepMind, Waymo or Nvidia but never qualified as home student for Phd funding, stopped at MSc. 
+I always dreamt of joining DeepMind, Waymo or Nvidia but never qualified as home student for PhD funding, stopped at MSc. 
 Also, my research has always been proprietary, hard to prove how much I know. 
 
 Nonetheless, I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
@@ -34,17 +34,19 @@ We named it after a plant that survives in resource-constrained environments, th
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) 
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
+Cactus runs Nvidia Parakeet 1B models on Raspberry Pi at over 17000 tokens/seconds with only 4% word-error-rate. 
+End-to-end function calling for Gemma, Qwen & LFM models take sub 1sec on mobile devices. 
 
 We raised some money from YCombinator, Oxford's Seed Fund, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
 and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, as well as 
 62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
 
-Cactus now powers cool products you've probably heard of. 
+Cactus now powers cool products you've probably heard of...I think. 
 6 exceptionally gifted "Cactus Jacks" from UCLA, Nokia, Google, Stanford, Oxford have joined us!
 The project is also co-maintained by groups at UCLA, Yale, Upenn, Imperial, Georgia, NUS, UCI, CU Boulder
 and UCI. 
 
-Same destination, just a different route! 
+Same destination, just a different route!
 
 ### Core Expertise 
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
@@ -86,3 +88,9 @@ Same destination, just a different route!
 - Hobbies: calisthenics, UFC, chess, music, dance 
 - Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike 
 - Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
+
+### Imperfections
+
+My biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks. 
+Many of the scientists keep reviewing my Linkedin profile for days, another candidate was selected. 
+The lack of closure hurt, but its safer to assume the other candidate was better, before I resent an innocent recruiter.
