@@ -74,7 +74,7 @@ Same destination, just a different route!
 - **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
-### Publicaitons
+### Publications
 - [HiDRA: A Blazing Fast LM-Head Replacement](https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)): ICLR 2026
 - [Depth Over Specialization in Small Multimodal Transformers](https://openreview.net/forum?id=rMrUJyrKHk): ICLR 2026
 - [Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps](https://openreview.net/forum?id=kKWSQsYgpa): ICLR 2026
