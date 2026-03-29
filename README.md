@@ -74,6 +74,12 @@ Same destination, just a different route!
 - **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
+### Publicaitons
+- [HiDRA: A Blazing Fast LM-Head Replacement](https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)): ICLR 2026
+- [Depth Over Specialization in Small Multimodal Transformers](https://openreview.net/forum?id=rMrUJyrKHk): ICLR 2026
+- [Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps](https://openreview.net/forum?id=kKWSQsYgpa): ICLR 2026
+- [TACE: Token-Aware Chunked Encoding For Realtime Speech Models](https://openreview.net/forum?id=yUIOXlBYtP): ICLR 2026
+
 ### Fun Highlights 
 - Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), a veeery unconventional textbook.
 - Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
@@ -82,7 +88,6 @@ Same destination, just a different route!
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
 
 ### Personal Life
-
 - Profile: Nigerian/British, 30y, 185m, 83kg, Capricorn
 - Language: English, Igbo, German (barely), French (yikes)
 - Hobbies: calisthenics, UFC, chess, music, dance 
@@ -90,7 +95,6 @@ Same destination, just a different route!
 - Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
 
 ### Imperfections
-
 My biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks. 
 Many of the scientists keep reviewing my Linkedin profile for days, another candidate was selected. 
 The lack of closure hurt, but its safer to assume the other candidate was better, before I resent an innocent recruiter.
