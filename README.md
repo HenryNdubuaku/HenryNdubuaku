@@ -66,7 +66,7 @@ Same destination, just a different route!
 ![Cloud](https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Career Progression 
-- **2025-XX:** Cactus (YC S25) - Founder & CTO (tiny inference engine for phones and wearables).
+- **2025-XX:** Cactus (YC S25) - Founder & CTO (AI models & engine for phones and wearables).
 - **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phone GPU/NPU).
 - **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
 - **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
@@ -81,20 +81,35 @@ Same destination, just a different route!
 - [TACE: Token-Aware Chunked Encoding For Realtime Speech Models](https://openreview.net/forum?id=yUIOXlBYtP): ICLR 2026
 
 ### Fun Highlights 
-- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 2.2k GitHub stars. 
-- Kevin Murphy (DeepMind Principal), Thomas Wolf (HuggingFace Co-foubder), Daniel Holtz (Mid Journey Founder), Steve Messina (IBM CTO) followed back on X.
+- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 2.2k GitHub stars.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
-- Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head! 
+- Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head!
+- My biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks.
 
 ### Personal Life
 - Profile: Nigerian/British, 30y, 185m, 83kg, Capricorn
 - Language: English, Igbo, German (barely), French (yikes)
 - Hobbies: calisthenics, UFC, chess, music, dance 
 - Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike 
-- Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
+- Philosophy: Humanist Christian, unpolitical (your peace over my opinions) 
 
-### Imperfections
-My biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks. 
-Many of the scientists keep reviewing my Linkedin profile for days, another candidate was selected. 
-The lack of closure hurt, but its safer to assume the other candidate was better, before I resent an innocent recruiter.
+### 2026 Wild Ambitions
+- AI for mobile device is hard and fragmented, hope we definively solve it comprehensively. 
+- I hope Cactus powers 10m daily active devices in production and hits $1B clean valuation. 
+- We have 8 papers scheduled for submissions to ICML 2026 and NeurIps 2026, hope they all get in! 
+
+### Next 5yrs Ambitions (by 35y)
+- There will be 30B IoT devices running AI by 2030, cloud is impractical for 24hrs ambient AI these devices need.
+- I hope my research and algorithms power the bulk of these AI-native devices and wearables. 
+- I still wish to take this energy to a frontier lab someday, complete my PhD part-time in BMI-Control of AI Agents.
+
+### 35-40y Ambitions 
+- I'd love to lecture part-time, transition to a full-time professor. 
+- Ultimately, run a fully-funded 5yr MEng Program for ambitious scholars with a brilliant + execution mind. 
+- The focus will be in teaching rigour, moonshot curriculum and founder energy. Couseworks = OSS PRs, exam = Papers. 
+- Scholars to build YC-companies or move to frontier labs upon graduation, maybe I'd be a YC GP for summers! 
+
+### Post-40y 
+- If the robots dont wipe us out, spend time with my family, I'm great with kids! 
+- Channel resources to African development initiatives, until I meet my maker. 
