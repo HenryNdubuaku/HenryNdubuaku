@@ -96,7 +96,7 @@ Same destination, just a different route!
 
 - Profile: Nigerian/British, 30y, 185cm, 83kg, Capricorn
 - Language: English, Igbo, German (barely), French (yikes)
-- Hobbies: calisthenics, UFC, chess, music (I sing well), dance (was in a dance group)
+- Hobbies: calisthenics, UFC, chess, music, dance 
 - Philosophy: Humanist Christian, unpolitical (your peace over my opinions) 
 
 ### Favourites
