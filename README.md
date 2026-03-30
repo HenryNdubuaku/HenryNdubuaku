@@ -49,6 +49,7 @@ and UCI.
 Same destination, just a different route!
 
 ### Core Expertise 
+
 ![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
 ![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
 ![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
@@ -56,6 +57,7 @@ Same destination, just a different route!
 ![GPU](https://img.shields.io/badge/GPU/TPU/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
 
 ### Main Tools  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -66,6 +68,7 @@ Same destination, just a different route!
 ![Cloud](https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Career Progression 
+
 - **2025-XX:** Cactus (YC S25) - Founder & CTO (AI models & engine for phones and wearables).
 - **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phone GPU/NPU).
 - **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
@@ -75,26 +78,46 @@ Same destination, just a different route!
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
 ### Publications
+
 - [HiDRA: A Blazing Fast LM-Head Replacement](https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)): ICLR 2026
 - [Depth Over Specialization in Small Multimodal Transformers](https://openreview.net/forum?id=rMrUJyrKHk): ICLR 2026
 - [Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps](https://openreview.net/forum?id=kKWSQsYgpa): ICLR 2026
 - [TACE: Token-Aware Chunked Encoding For Realtime Speech Models](https://openreview.net/forum?id=yUIOXlBYtP): ICLR 2026
 
-### Fun Highlights 
-- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 2.2k GitHub stars.
+### Highlights 
+
+- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 2.5k GitHub stars.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head!
-- My biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks.
+- Biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks.
 
 ### Personal Life
-- Profile: Nigerian/British, 30y, 185m, 83kg, Capricorn
+
+- Profile: Nigerian/British, 30y, 185cm, 83kg, Capricorn
 - Language: English, Igbo, German (barely), French (yikes)
-- Hobbies: calisthenics, UFC, chess, music, dance 
-- Music: Tyler The Creator, RAYE, Mk,Gee, Jacob Collier, Dominic Fike 
+- Hobbies: calisthenics, UFC, chess, music (I sing well), dance (was in a dance group)
 - Philosophy: Humanist Christian, unpolitical (your peace over my opinions) 
 
-### 2026 Wild Ambitions
+### Favourites
+
+- Music:
+  1. Expressive Rap: Kendrick, Tyler The Creator, Doechii  
+  2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski 
+  3. Soul/Jazz: RAYE, Adele, Jacob Collier 
+  4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac 
+  5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon 
+  6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish 
+  
+- Shows: 
+  1. Avatar The Last Airbender 
+  2. Game of Thrones  
+  3. Big Bang Theory 
+  4. Black-ish 
+  5. Modern Family  
+  6. Sherlock BBC  
+
+### 2026 Ambitions
 - AI for mobile device is hard and fragmented, hope we definively solve it comprehensively. 
 - I hope Cactus powers 10m daily active devices in production and hits $1B clean valuation. 
-- We have 8 papers scheduled for submissions to ICML 2026 and NeurIps 2026, hope they all get in! 
+- We are submitting paers to ICML 2026 and NeurIps 2026, hope they all get in.
