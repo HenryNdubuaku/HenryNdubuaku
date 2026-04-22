@@ -69,16 +69,17 @@ Same destination, just a different route!
 
 ### Career Progression 
 
-- **2025-XX:** Cactus (YC S25) - Founder & CTO (AI models & engine for phones and wearables).
-- **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phone GPU/NPU).
+- **2025-XX:** Cactus (YC S25) - Founder & CTO (Low-Latency AI for phones and wearables).
+- **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phones).
 - **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
 - **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
 - **2018-19:** Google GADS Scholarship Programme with Andela (pre-MSc), around systems design.
 - **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
 - **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
 
-### Publications
+### Research
 
+- [TurboQuant-H](https://docs.cactuscompute.com/latest/blog/turboquant-h/) 
 - [HiDRA: A Blazing Fast LM-Head Replacement](https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)): ICLR 2026
 - [Depth Over Specialization in Small Multimodal Transformers](https://openreview.net/forum?id=rMrUJyrKHk): ICLR 2026
 - [Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps](https://openreview.net/forum?id=kKWSQsYgpa): ICLR 2026
@@ -86,7 +87,7 @@ Same destination, just a different route!
 
 ### Highlights 
 
-- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 2.5k GitHub stars.
+- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 3.1kk GitHub stars.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head!
@@ -120,4 +121,4 @@ Same destination, just a different route!
 ### 2026 Ambitions
 - AI for mobile device is hard and fragmented, hope we definively solve it comprehensively. 
 - I hope Cactus powers 10m daily active devices in production and hits $1B clean valuation. 
-- We are submitting paers to ICML 2026 and NeurIps 2026, hope they all get in.
+- We are submitting papers to ICML 2026 and NeurIps 2026, hope they all get in.
