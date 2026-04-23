@@ -98,27 +98,51 @@ Same destination, just a different route!
 - Profile: Nigerian/British, 30y, 185cm, 83kg, Capricorn
 - Language: English, Igbo, German (barely), French (yikes)
 - Hobbies: calisthenics, UFC, chess, music, dance 
-- Philosophy: Humanist Christian, unpolitical (your peace over my opinions) 
+- Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
 
-### Favourites
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/ucla.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>Speaking at UCLA</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/cactus_jacks.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>The Cactus Jacks</em>
+    </td>
+    <td align="center">
+      <img src="assets/cactus_dinner.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>Team dinner</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/gym.jpg" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>Calisthenics 6/7 days</em>
+    </td>
+    <td align="center">
+      <img src="assets/cactus_jacks_yc.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>Cactus Jacks at YC</em>
+    </td>
+    <td align="center">
+      <img src="assets/cactus_pod_yc.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
+      <em>Cactus Pod at YC HQ</em>
+    </td>
+  </tr>
+</table>
 
-- Music:
-  1. Expressive Rap: Kendrick, Tyler The Creator, Eminem, Kanye West, Doechii  
-  2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski, Fiona Apple, Infinity Song
-  3. Soul/Jazz: RAYE, Adele, Jacob Collier, Olivia Dean, 
-  4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac, Elvis Presley  
-  5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon, ROSALIA  
-  6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish, Ludwig Gorranson 
+### Music Taste
+1. Expressive Rap: Kendrick, Tyler The Creator, Eminem, Kanye West, Doechii  
+2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski, Fiona Apple, Infinity Song
+3. Soul/Jazz: RAYE, Adele, Jacob Collier, Olivia Dean, 
+4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac, Elvis Presley  
+5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon, ROSALIA  
+6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish, Ludwig Gorranson 
   
-- Shows: 
-  1. Avatar The Last Airbender 
-  2. Game of Thrones  
-  3. Big Bang Theory 
-  4. Black-ish 
-  5. Modern Family  
-  6. Sherlock BBC  
-
-### 2026 Ambitions
-- AI for mobile device is hard and fragmented, hope we definively solve it comprehensively. 
-- I hope Cactus powers 10m daily active devices in production and hits $1B clean valuation. 
-- We are submitting papers to ICML 2026 and NeurIps 2026, hope they all get in.
+### Movie Taste 
+1. Avatar The Last Airbender 
+2. Game of Thrones  
+3. Big Bang Theory 
+4. Black-ish 
+5. Modern Family  
+6. Sherlock BBC  
