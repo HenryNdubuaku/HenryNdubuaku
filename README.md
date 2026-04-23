@@ -103,12 +103,12 @@ Same destination, just a different route!
 ### Favourites
 
 - Music:
-  1. Expressive Rap: Kendrick, Tyler The Creator, Doechii  
-  2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski 
-  3. Soul/Jazz: RAYE, Adele, Jacob Collier 
-  4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac 
-  5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon 
-  6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish 
+  1. Expressive Rap: Kendrick, Tyler The Creator, Eminem, Kanye West, Doechii  
+  2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski, Fiona Apple, Infinity Song
+  3. Soul/Jazz: RAYE, Adele, Jacob Collier, Olivia Dean, 
+  4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac, Elvis Presley  
+  5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon, ROSALIA  
+  6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish, Ludwig Gorranson 
   
 - Shows: 
   1. Avatar The Last Airbender 
