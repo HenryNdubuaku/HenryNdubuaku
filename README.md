@@ -125,11 +125,11 @@ Same destination, just a different route!
 <table>
   <tr>
     <td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for phones & wearables</a></td>
-    <td>Post-training & kernel design</td>
+    <td>Post-training & kernel design, 4.7k stars</td>
   </tr>
   <tr>
     <td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium</a></td>
-    <td>Unconventional textbook, 3.1k GitHub stars</td>
+    <td>Unconventional textbook, 3.1k stars</td>
   </tr>
   <tr>
     <td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td>
