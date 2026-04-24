@@ -48,46 +48,121 @@ and UCI.
 
 Same destination, just a different route!
 
-### Core Expertise 
+### Career
 
-![Maths](https://img.shields.io/badge/Maths-DE713C?style=flat&logo=tiny&logoColor=white)
-![Computing](https://img.shields.io/badge/Computing-black?style=flat&logo=tiny&logoColor=white)
-![AI/ML/RL](https://img.shields.io/badge/AI/ML/RL-20B2AA?style=flat&logo=tiny&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-E59079?style=flat&logo=tiny&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU/TPU/HPC-556B2F?style=flat&logo=tiny&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Core Expertise</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Maths-DE713C?style=for-the-badge&logo=tiny&logoColor=white">
+      <img src="https://img.shields.io/badge/Computing-black?style=for-the-badge&logo=tiny&logoColor=white">
+      <img src="https://img.shields.io/badge/AI/ML/RL-20B2AA?style=for-the-badge&logo=tiny&logoColor=white">
+      <img src="https://img.shields.io/badge/Distributed_Systems-E59079?style=for-the-badge&logo=tiny&logoColor=white">
+      <img src="https://img.shields.io/badge/GPU/TPU/HPC-556B2F?style=for-the-badge&logo=tiny&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Main Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Jax-purple?style=for-the-badge&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+      <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white">
+      <img src="https://img.shields.io/badge/Neon-0091BD?style=for-the-badge&logo=arm&logoColor=white">
+      <img src="https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-### Main Tools  
+<table>
+  <tr>
+    <td><strong>2025-XX</strong></td>
+    <td><strong>Cactus (YC S25)</strong></td>
+    <td>Founder & CTO</td>
+    <td>Low-latency AI for phones and wearables</td>
+  </tr>
+  <tr>
+    <td><strong>2024-25</strong></td>
+    <td><strong>Deep Render</strong></td>
+    <td>AI Research Engineer</td>
+    <td>Realtime video models that run on phones</td>
+  </tr>
+  <tr>
+    <td><strong>2021-24</strong></td>
+    <td><strong>Wisdm</strong></td>
+    <td>ML Software Engineer</td>
+    <td>Distributed perception AI for Maxar Defence satellite views</td>
+  </tr>
+  <tr>
+    <td><strong>2019-21</strong></td>
+    <td><strong>MSc + Open Source</strong></td>
+    <td></td>
+    <td>JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.</td>
+  </tr>
+  <tr>
+    <td><strong>2018-19</strong></td>
+    <td><strong>Google GADS + Andela</strong></td>
+    <td>Scholar</td>
+    <td>Systems design (pre-MSc)</td>
+  </tr>
+  <tr>
+    <td><strong>2017-18</strong></td>
+    <td><strong>National Youth Service</strong></td>
+    <td>Software Engineer</td>
+    <td>Posted after bootcamp, mostly ARM</td>
+  </tr>
+  <tr>
+    <td><strong>2012-16</strong></td>
+    <td><strong>University (started at 15y)</strong></td>
+    <td></td>
+    <td>EECS, data structures, algorithms, maths, physics</td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Jax](https://img.shields.io/badge/Jax-purple?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0091BD?style=flat&logo=arm&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=flat&logo=googlecloud&logoColor=white)
+### Key Works
 
-### Career Progression 
+<table>
+  <tr>
+    <td><strong>Ongoing</strong></td>
+    <td><a href="https://github.com/cactus-compute/cactus">Cactus</a></td>
+    <td>AI models & engine for phones and wearables</td>
+  </tr>
+  <tr>
+    <td><strong>Ongoing</strong></td>
+    <td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium</a></td>
+    <td>Unconventional textbook, 3.1k GitHub stars</td>
+  </tr>
+  <tr>
+    <td><strong>Ongoing</strong></td>
+    <td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H</a></td>
+    <td>Cactus Research Preview</td>
+  </tr>
+  <tr>
+    <td><strong>ICLR 2026</strong></td>
+    <td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement</a></td>
+    <td>Efficient decoding</td>
+  </tr>
+  <tr>
+    <td><strong>ICLR 2026</strong></td>
+    <td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers</a></td>
+    <td>Multimodal architectures</td>
+  </tr>
+  <tr>
+    <td><strong>ICLR 2026</strong></td>
+    <td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps</a></td>
+    <td>RL for hyperparameters</td>
+  </tr>
+  <tr>
+    <td><strong>ICLR 2026</strong></td>
+    <td><a href="https://openreview.net/forum?id=yUIOXlBYtP">TACE: Token-Aware Chunked Encoding For Realtime Speech Models</a></td>
+    <td>Speech encoding</td>
+  </tr>
+</table>
 
-- **2025-XX:** Cactus (YC S25) - Founder & CTO (Low-Latency AI for phones and wearables).
-- **2024-25:** Deep Render - AI Research Engineer (realtime video models that run on phones).
-- **2021-24:** Wisdm - ML Software Engineer (distributed perception AI for Maxar Defence satelite views).
-- **2019-21:** MSc + Open-source activities (JAX/NanoDl, Torch/SuperLazyAutograd, CUDARepo, etc.).
-- **2018-19:** Google GADS Scholarship Programme with Andela (pre-MSc), around systems design.
-- **2017-18:** National Youth service, posted to software engineering after bootcamp, mostly ARM. 
-- **2012-16:** Started uni at 15y, covered EECS, data structures, algorithms, maths, physics.
+### Fun Facts 
 
-### Research
-
-- [TurboQuant-H](https://docs.cactuscompute.com/latest/blog/turboquant-h/) 
-- [HiDRA: A Blazing Fast LM-Head Replacement](https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)): ICLR 2026
-- [Depth Over Specialization in Small Multimodal Transformers](https://openreview.net/forum?id=rMrUJyrKHk): ICLR 2026
-- [Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps](https://openreview.net/forum?id=kKWSQsYgpa): ICLR 2026
-- [TACE: Token-Aware Chunked Encoding For Realtime Speech Models](https://openreview.net/forum?id=yUIOXlBYtP): ICLR 2026
-
-### Highlights 
-
-- Wrote [Maths, CS & AI Compendium](https://henryndubuaku.github.io/maths-cs-ai-compendium/), an unconventional textbook which has grown to 3.1kk GitHub stars.
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head!
@@ -95,10 +170,24 @@ Same destination, just a different route!
 
 ### Personal Life
 
-- Profile: Nigerian/British, 30y, 185cm, 83kg, Capricorn
-- Language: English, Igbo, German (barely), French (yikes)
-- Hobbies: calisthenics, UFC, chess, music, dance 
-- Philosophy: Humanist Christian, unpolitical (your peace over my opinions)
+<table>
+  <tr>
+    <td><strong>Profile</strong></td>
+    <td>Nigerian/British, 30y, 185cm, 83kg, Capricorn</td>
+  </tr>
+  <tr>
+    <td><strong>Language</strong></td>
+    <td>English, Igbo, German (barely), French (yikes)</td>
+  </tr>
+  <tr>
+    <td><strong>Hobbies</strong></td>
+    <td>Calisthenics, UFC, chess, music, dance</td>
+  </tr>
+  <tr>
+    <td><strong>Philosophy</strong></td>
+    <td>Humanist Christian, unpolitical (your peace over my opinions)</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -131,18 +220,86 @@ Same destination, just a different route!
   </tr>
 </table>
 
-### Music Taste
-1. Expressive Rap: Kendrick, Tyler The Creator, Eminem, Kanye West, Doechii  
-2. Alternative/Folk: Dominic Fike, Mk.Gee, Mitski, Fiona Apple, Infinity Song
-3. Soul/Jazz: RAYE, Adele, Jacob Collier, Olivia Dean, 
-4. Oldies: Daft Punk, Bruno Mars, Fleetwood Mac, Elvis Presley  
-5. Genre-Blending Urban: Childish Gambino, Beyonce, Dijon, ROSALIA  
-6. Dark Pop: Lana Del Rey, Lorde, Billie Ellish, Ludwig Gorranson 
+### Music Profile
+
+<table>
+  <tr>
+    <td><strong>Expressive Rap</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"><img src="https://img.shields.io/badge/Tyler_The_Creator-E8390E?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"><img src="https://img.shields.io/badge/Kendrick-E8390E?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"><img src="https://img.shields.io/badge/Eminem-E8390E?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/4kRllkt5ryNfnpK6DVJvm2"><img src="https://img.shields.io/badge/Doechii-E8390E?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Alternative/Folk</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"><img src="https://img.shields.io/badge/Dominic_Fike-5B7D3A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/1XXivCORMElAtHYFsUQ4VT"><img src="https://img.shields.io/badge/Mk.Gee-5B7D3A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"><img src="https://img.shields.io/badge/Mitski-5B7D3A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"><img src="https://img.shields.io/badge/Fiona_Apple-5B7D3A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Soul/Jazz</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"><img src="https://img.shields.io/badge/RAYE-C77B30?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"><img src="https://img.shields.io/badge/Adele-C77B30?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"><img src="https://img.shields.io/badge/Jacob_Collier-C77B30?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/42YjMrGliuaph5RDrzQNqj"><img src="https://img.shields.io/badge/Olivia_Dean-C77B30?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Oldies</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvnl"><img src="https://img.shields.io/badge/Daft_Punk-4A4A8A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"><img src="https://img.shields.io/badge/Bruno_Mars-4A4A8A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"><img src="https://img.shields.io/badge/Fleetwood_Mac-4A4A8A?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Genre-Blending Urban</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"><img src="https://img.shields.io/badge/Childish_Gambino-8B2252?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"><img src="https://img.shields.io/badge/Beyonce-8B2252?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/0JBbDdGjnOiJYCkuELIPbj"><img src="https://img.shields.io/badge/Dijon-8B2252?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h0"><img src="https://img.shields.io/badge/ROSALIA-8B2252?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dark Pop</strong></td>
+    <td>
+      <a href="https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"><img src="https://img.shields.io/badge/Lana_Del_Rey-2F2F2F?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"><img src="https://img.shields.io/badge/Lorde-2F2F2F?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"><img src="https://img.shields.io/badge/Billie_Eilish-2F2F2F?style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://open.spotify.com/artist/4YLtscXsxbVgi031p0bIoB"><img src="https://img.shields.io/badge/Ludwig_Goransson-2F2F2F?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
   
-### Movie Taste 
-1. Avatar The Last Airbender 
-2. Game of Thrones  
-3. Big Bang Theory 
-4. Black-ish 
-5. Modern Family  
-6. Sherlock BBC  
+### Movie Profile
+
+<table>
+  <tr>
+    <td><strong>Animation</strong></td>
+    <td>
+      <a href="https://www.imdb.com/title/tt0417299/"><img src="https://img.shields.io/badge/Avatar_The_Last_Airbender-1E90FF?style=for-the-badge&logo=imdb&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Drama</strong></td>
+    <td>
+      <a href="https://www.imdb.com/title/tt0944947/"><img src="https://img.shields.io/badge/Game_of_Thrones-8B0000?style=for-the-badge&logo=imdb&logoColor=white"></a>
+      <a href="https://www.imdb.com/title/tt1475582/"><img src="https://img.shields.io/badge/Sherlock_BBC-8B0000?style=for-the-badge&logo=imdb&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Comedy</strong></td>
+    <td>
+      <a href="https://www.imdb.com/title/tt0898266/"><img src="https://img.shields.io/badge/Big_Bang_Theory-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
+      <a href="https://www.imdb.com/title/tt3487356/"><img src="https://img.shields.io/badge/Black--ish-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
+      <a href="https://www.imdb.com/title/tt1442437/"><img src="https://img.shields.io/badge/Modern_Family-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
+    </td>
+  </tr>
+</table>
