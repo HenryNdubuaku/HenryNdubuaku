@@ -123,34 +123,13 @@ Same destination, just a different route!
 ### Key Works
 
 <table>
-  <tr>
-    <td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for phones & wearables</a></td>
-    <td>4.7k stars</td>
-  </tr>
-  <tr>
-    <td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium</a></td>
-    <td>Unconventional textbook, 3.1k stars</td>
-  </tr>
-  <tr>
-    <td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td>
-    <td>Cactus Research Preview</td>
-  </tr>
-  <tr>
-    <td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td>
-    <td>Efficient decoding</td>
-  </tr>
-  <tr>
-    <td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers (ICLR 2026)</a></td>
-    <td>Multimodal architectures</td>
-  </tr>
-  <tr>
-    <td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps (ICLR 2026)</a></td>
-    <td>RL for hyperparameters</td>
-  </tr>
-  <tr>
-    <td><a href="https://openreview.net/forum?id=yUIOXlBYtP">TACE: Token-Aware Chunked Encoding For Realtime Speech Models (ICLR 2026)</a></td>
-    <td>Speech encoding</td>
-  </tr>
+  <tr><td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for phones & wearables (4.7k stars)</a></td></tr>
+  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (3.1k stars)</a></td></tr>
+  <tr><td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td></tr>
+  <tr><td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td></tr>
+  <tr><td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers (ICLR 2026)</a></td></tr>
+  <tr><td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps (ICLR 2026)</a></td></tr>
+  <tr><td><a href="https://openreview.net/forum?id=yUIOXlBYtP">TACE: Token-Aware Chunked Encoding For Realtime Speech Models (ICLR 2026)</a></td></tr>
 </table>
 
 ### Fun Facts 
