@@ -69,9 +69,8 @@ Same destination, just a different route!
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/Jax-purple?style=for-the-badge&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-      <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white">
       <img src="https://img.shields.io/badge/Neon-0091BD?style=for-the-badge&logo=arm&logoColor=white">
-      <img src="https://img.shields.io/badge/Cloud/Docker/K8-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/DOcker/k8-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     </td>
   </tr>
 </table>
@@ -125,38 +124,31 @@ Same destination, just a different route!
 
 <table>
   <tr>
-    <td><strong>Ongoing</strong></td>
-    <td><a href="https://github.com/cactus-compute/cactus">Cactus</a></td>
-    <td>AI models & engine for phones and wearables</td>
+    <td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for phones & wearables</a></td>
+    <td>Post-training & kernel design</td>
   </tr>
   <tr>
-    <td><strong>Ongoing</strong></td>
     <td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium</a></td>
     <td>Unconventional textbook, 3.1k GitHub stars</td>
   </tr>
   <tr>
-    <td><strong>Ongoing</strong></td>
-    <td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H</a></td>
+    <td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td>
     <td>Cactus Research Preview</td>
   </tr>
   <tr>
-    <td><strong>ICLR 2026</strong></td>
-    <td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement</a></td>
+    <td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td>
     <td>Efficient decoding</td>
   </tr>
   <tr>
-    <td><strong>ICLR 2026</strong></td>
-    <td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers</a></td>
+    <td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers (ICLR 2026)</a></td>
     <td>Multimodal architectures</td>
   </tr>
   <tr>
-    <td><strong>ICLR 2026</strong></td>
-    <td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps</a></td>
+    <td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps (ICLR 2026)</a></td>
     <td>RL for hyperparameters</td>
   </tr>
   <tr>
-    <td><strong>ICLR 2026</strong></td>
-    <td><a href="https://openreview.net/forum?id=yUIOXlBYtP">TACE: Token-Aware Chunked Encoding For Realtime Speech Models</a></td>
+    <td><a href="https://openreview.net/forum?id=yUIOXlBYtP">TACE: Token-Aware Chunked Encoding For Realtime Speech Models (ICLR 2026)</a></td>
     <td>Speech encoding</td>
   </tr>
 </table>
