@@ -144,7 +144,7 @@ Same destination, just a different route!
 <table>
   <tr>
     <td><strong>Profile</strong></td>
-    <td>Nigerian/British, 30y, 185cm, 83kg, Capricorn</td>
+    <td>Nigerian-British, born Jan 1996, 185cm, 83kg</td>
   </tr>
   <tr>
     <td><strong>Language</strong></td>
