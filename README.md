@@ -106,7 +106,7 @@ Same destination, just a different route!
     <td style="white-space:nowrap"><strong>2017-18</strong></td>
     <td style="white-space:nowrap"><strong>National Youth Service</strong></td>
     <td style="white-space:nowrap">Software Engineer</td>
-    <td>Posted after bootcamp, mostly ARM</td>
+    <td>Posted to SWE after bootcamp, mostly ARM</td>
   </tr>
   <tr>
     <td style="white-space:nowrap"><strong>2012-16</strong></td>
