@@ -93,7 +93,6 @@ Same destination, just a different route!
   <tr>
     <td style="white-space:nowrap"><strong>2019-21</strong></td>
     <td style="white-space:nowrap"><strong>NanoDL</strong></td>
-    <td></td>
     <td style="white-space:nowrap">Founder & CTO</td>
     <td>JAX Library for training sub-4B models for edge</td>
   </tr>
