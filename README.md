@@ -120,8 +120,8 @@ Same destination, just a different route!
 
 <table>
   <tr><td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for Tiny devices (5.3k stars)</a></td></tr>
-  <tr><td><a href="https://github.com/cactus-compute/needle">Needle: Foundation model for Tiny devices (2.4k stars)</a></td></tr>
-  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (4.2k stars)</a></td></tr>
+  <tr><td><a href="https://github.com/cactus-compute/needle">Needle: Foundation model for Tiny devices (2.6k stars)</a></td></tr>
+  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (4.4k stars)</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=qFtjSdOiIy&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">Parameter-Efficient Transformer Embedding via Functional Factorization (ICML 2026)</a></td></tr>
   <tr><td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td></tr>
