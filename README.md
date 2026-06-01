@@ -109,6 +109,12 @@ Same destination, just a different route!
     <td>Posted to SWE after bootcamp, mostly ARM</td>
   </tr>
   <tr>
+    <td style="white-space:nowrap"><strong>2016-17</strong></td>
+    <td style="white-space:nowrap"><strong>Omdena</strong></td>
+    <td>Machine Learning Engineer</td>
+    <td>Traditional NLP and computer vision.</td>
+  </tr>
+  <tr>
     <td style="white-space:nowrap"><strong>2012-16</strong></td>
     <td style="white-space:nowrap"><strong>University (from 15y)</strong></td>
     <td></td>
