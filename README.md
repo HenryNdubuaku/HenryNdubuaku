@@ -82,23 +82,23 @@ Same destination, just a different route!
     <td style="white-space:nowrap"><strong>2024-25</strong></td>
     <td style="white-space:nowrap"><strong>Deep Render</strong></td>
     <td style="white-space:nowrap">AI Research Engineer</td>
-    <td>Realtime video models that run on phones</td>
+    <td>Realtime video models for edge devices</td>
   </tr>
   <tr>
     <td style="white-space:nowrap"><strong>2021-24</strong></td>
     <td style="white-space:nowrap"><strong>Wisdm</strong></td>
     <td style="white-space:nowrap">ML Software Engineer</td>
-    <td>Perception AI for Maxar Defence satellite views</td>
+    <td>Visual Perception for Maxar Defence satellite views</td>
   </tr>
   <tr>
     <td style="white-space:nowrap"><strong>2019-21</strong></td>
     <td style="white-space:nowrap"><strong>NanoDL</strong></td>
     <td style="white-space:nowrap">Founder & CTO</td>
-    <td>JAX Library for training sub-4B models for edge</td>
+    <td>JAX Library for training sub-4B foundation models</td>
   </tr>
   <tr>
     <td style="white-space:nowrap"><strong>2018-19</strong></td>
-    <td style="white-space:nowrap"><strong>Google GADS + Andela</strong></td>
+    <td style="white-space:nowrap"><strong>Google GADS with Andela</strong></td>
     <td style="white-space:nowrap">Scholar</td>
     <td>Large-scale distributed systems design</td>
   </tr>
