@@ -12,7 +12,7 @@
 [linkedin-url]: https://linkedin.com/in/henry-ndubuaku-7b6350b8
 
 [twitter-shield]: https://img.shields.io/badge/Twitter-555?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/hmunachii
+[twitter-url]: https://twitter.com/Henry_Ndubuaku
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-555?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/playlist/656vFNTyI2ZDsxgdQFaPHA?si=c2ff4aa84f6d42c4
