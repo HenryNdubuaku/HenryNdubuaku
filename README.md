@@ -142,7 +142,7 @@ Same destination, just a different route!
 - After CUDARepo, Nvidia reached out, I did 7 technical rounds, got a verbal offer, back-and-forth over YOE/pay, then I got YC.
 - Did MSc at QMUL, just to work with Prof Matt Purver (Ex-Stanford Researcher on CALO), did my project/thesis with his team.
 - Did BEng under Prof Onyema Uzoamaka (Rumoured first Nigerian CS grad from MIT), he taught computing archs off-head!
-- Biggest career miss was a PhD Studentship at Meta FAIR, recruiter went to vacation after onsite for weeks.
+- Biggest career miss was a PhD Studentship at Meta FAIR.
 
 ### Personal Life
 
