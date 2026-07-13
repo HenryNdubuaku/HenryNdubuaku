@@ -24,23 +24,20 @@
 
 I could train a 1B-A200m model on an iPhone 17 Pro at ~650 tokens/sec. 
 It will take 360 days on 20B tokens of training data and use 156KW of electricity which cost $51. 
+
 The phone will fry of course, so I wrote algorithms to run inference on your phone rather. 
 We named it after a plant that survives in resource-constrained environments, the Cactus. 
 
 [![cactus](https://img.shields.io/badge/cactus-000000?style=flat&logo=github&logoColor=white)](https://github.com/cactus-compute/cactus) 
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
-Cactus runs Nvidia Parakeet 1B models on Raspberry Pi at over 17000 tokens/seconds with only 4% word-error-rate. 
-End-to-end function calling for Gemma, Qwen & LFM models take sub 1sec on mobile devices. 
 
-We raised some money from YCombinator, Oxford's Seed Fund, FCVC (portfolio include Slack, Coinbase, GitLab, Instacart etc.), 
-and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, as well as 
-62 tech CTOs/VP/Directors both via syndicate and directly at Google DeepMind etc. 
+We raised some money from YCombinator, Oxford's Seed Fund, FCVC (Slack, Coinbase, GitLab, Instacart etc.), 
+and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
+62 tech CTOs/VP/Dir both via syndicate and directly at Google DeepMind etc. 
 
 Cactus now powers cool products you've probably heard of...I think. 
-6 exceptionally gifted "Cactus Jacks" from UCLA, Nokia, Google, Stanford, Oxford have joined us!
-The project is also co-maintained by groups at UCLA, Yale, Upenn, Imperial, Georgia, NUS, UCI, CU Boulder
-and UCI. 
+6 exceptionally gifted "Cactus Jacks" from UCLA, Nokia, Google, Stanford, Oxford have joined us! 
 
 Same destination, just a different route!
 
@@ -125,9 +122,9 @@ Same destination, just a different route!
 ### Key Works
 
 <table>
-  <tr><td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for Tiny devices (5.3k stars)</a></td></tr>
-  <tr><td><a href="https://github.com/cactus-compute/needle">Needle: Foundation model for Tiny devices (2.6k stars)</a></td></tr>
-  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (4.4k stars)</a></td></tr>
+  <tr><td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for Tiny devices (5.5k stars)</a></td></tr>
+  <tr><td><a href="https://github.com/cactus-compute/needle">Needle: Foundation model for Tiny devices (3k stars)</a></td></tr>
+  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (5k stars)</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=qFtjSdOiIy&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">Parameter-Efficient Transformer Embedding via Functional Factorization (ICML 2026)</a></td></tr>
   <tr><td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td></tr>
