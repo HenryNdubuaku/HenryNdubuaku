@@ -33,6 +33,7 @@ can run similar model on your Grandma’s Pixel 6a at 80 tokens/second
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
 
 I also built an agentic foundation model for tiny smart devices that runs 1.2k toks/sec on Cactus, its called Needle. 
+
 Needle has no FFN, just 26m params of pure attention, yet matches 10-25x bigger models. It can be a better Siri/Alexa that powers tiny smart devices. 
 
 We raised some money from YCombinator, Oxford's Seed Fund, FCVC (Slack, Coinbase, GitLab, Instacart etc.), 
