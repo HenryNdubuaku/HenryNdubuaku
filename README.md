@@ -73,7 +73,7 @@ Same destination, just a different route!
     <td style="white-space:nowrap"><strong>2025-XX</strong></td>
     <td style="white-space:nowrap"><strong>Cactus (YC S25)</strong></td>
     <td style="white-space:nowrap">Founder & CTO</td>
-    <td>Low-latency AI for phones and wearables</td>
+    <td>Models & inference for tiny devices</td>
   </tr>
   <tr>
     <td style="white-space:nowrap"><strong>2024-25</strong></td>
@@ -86,36 +86,6 @@ Same destination, just a different route!
     <td style="white-space:nowrap"><strong>Wisdm</strong></td>
     <td style="white-space:nowrap">ML Software Engineer</td>
     <td>Visual Perception for Maxar Defence satellite views</td>
-  </tr>
-  <tr>
-    <td style="white-space:nowrap"><strong>2019-21</strong></td>
-    <td style="white-space:nowrap"><strong>NanoDL</strong></td>
-    <td style="white-space:nowrap">Founder & CTO</td>
-    <td>JAX Library for training sub-4B foundation models</td>
-  </tr>
-  <tr>
-    <td style="white-space:nowrap"><strong>2018-19</strong></td>
-    <td style="white-space:nowrap"><strong>Google GADS with Andela</strong></td>
-    <td style="white-space:nowrap">Scholar</td>
-    <td>Large-scale distributed systems design</td>
-  </tr>
-  <tr>
-    <td style="white-space:nowrap"><strong>2017-18</strong></td>
-    <td style="white-space:nowrap"><strong>National Youth Service</strong></td>
-    <td style="white-space:nowrap">Software Engineer</td>
-    <td>Posted to SWE after bootcamp, mostly ARM</td>
-  </tr>
-  <tr>
-    <td style="white-space:nowrap"><strong>2016-17</strong></td>
-    <td style="white-space:nowrap"><strong>Omdena</strong></td>
-    <td>Machine Learning Engineer</td>
-    <td>Traditional NLP and computer vision.</td>
-  </tr>
-  <tr>
-    <td style="white-space:nowrap"><strong>2012-16</strong></td>
-    <td style="white-space:nowrap"><strong>University (from 15y)</strong></td>
-    <td></td>
-    <td>EECS, data structures, algorithms, maths, physics</td>
   </tr>
 </table>
 
