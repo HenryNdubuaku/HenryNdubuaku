@@ -76,11 +76,11 @@ Same destination, just a different route!
   </tr>
   <tr>
     <td><strong>Hobbies</strong></td>
-    <td>Calisthenics, UFC, chess, music, dance</td>
+    <td>Calisthenics, UFC, chess, music</td>
   </tr>
   <tr>
     <td><strong>Philosophy</strong></td>
-    <td>Humanist Christian, unpolitical (your peace over my opinions)</td>
+    <td>Humanist Christian, unpolitical</td>
   </tr>
 </table>
 
@@ -102,7 +102,7 @@ Same destination, just a different route!
   <tr>
     <td align="center">
       <img src="assets/gym.jpg" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
-      <em>Calisthenics 6/7 days</em>
+      <em>I'm fit too</em>
     </td>
     <td align="center">
       <img src="assets/cactus_jacks_yc.png" width="250" height="250" style="object-fit:cover;border-radius:8px"><br>
