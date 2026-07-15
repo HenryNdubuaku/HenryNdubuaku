@@ -74,10 +74,6 @@ Same destination, just a different route!
     <td>Nigerian-British, born Jan 1996, 185cm, 83kg</td>
   </tr>
   <tr>
-    <td><strong>Language</strong></td>
-    <td>English, Igbo, German (barely), French (yikes)</td>
-  </tr>
-  <tr>
     <td><strong>Hobbies</strong></td>
     <td>Calisthenics, UFC, chess, music, dance</td>
   </tr>
