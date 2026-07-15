@@ -32,10 +32,8 @@ We named it after a plant that survives in resource-constrained environments, th
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
 
-Still not enough, so I built a foundation model that runs 1.2k toks/sec. 
-This used a novel architecture I designed by stripping all FFN, 
-leaving only 26m params of pute attention...that matches 10-25x bigger models,
-we called it Needle. 
+I also built a monile tool-use foundation model that runs 1.2k toks/sec on Cactus, its called Needle. 
+I designed Needle by stripping all FFN, leaving only 26m params of pute attention, yet matches 10-25x bigger models,
 
 We raised some money from YCombinator, Oxford's Seed Fund, FCVC (Slack, Coinbase, GitLab, Instacart etc.), 
 and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
