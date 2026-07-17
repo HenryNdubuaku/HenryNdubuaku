@@ -172,29 +172,3 @@ Same destination, just a different route!
     </td>
   </tr>
 </table>
-  
-### Movie Profile
-
-<table>
-  <tr>
-    <td><strong>Animation</strong></td>
-    <td>
-      <a href="https://www.imdb.com/title/tt0417299/"><img src="https://img.shields.io/badge/Avatar_The_Last_Airbender-1E90FF?style=for-the-badge&logo=imdb&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Drama</strong></td>
-    <td>
-      <a href="https://www.imdb.com/title/tt0944947/"><img src="https://img.shields.io/badge/Game_of_Thrones-8B0000?style=for-the-badge&logo=imdb&logoColor=white"></a>
-      <a href="https://www.imdb.com/title/tt1475582/"><img src="https://img.shields.io/badge/Sherlock_BBC-8B0000?style=for-the-badge&logo=imdb&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Comedy</strong></td>
-    <td>
-      <a href="https://www.imdb.com/title/tt0898266/"><img src="https://img.shields.io/badge/Big_Bang_Theory-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
-      <a href="https://www.imdb.com/title/tt3487356/"><img src="https://img.shields.io/badge/Black--ish-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
-      <a href="https://www.imdb.com/title/tt1442437/"><img src="https://img.shields.io/badge/Modern_Family-F5C518?style=for-the-badge&logo=imdb&logoColor=black"></a>
-    </td>
-  </tr>
-</table>
