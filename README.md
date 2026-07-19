@@ -45,14 +45,10 @@ Cactus now powers cool products you've probably heard of...I think.
 
 Same destination, just a different route!
 
-### Key Works
+### Publications
 
 <table>
-  <tr><td><a href="https://github.com/cactus-compute/cactus">Cactus: Kernels, graph and AI engine for Tiny devices (5.5k stars)</a></td></tr>
-  <tr><td><a href="https://github.com/cactus-compute/needle">Needle: Foundation model for Tiny devices (3.2k stars)</a></td></tr>
-  <tr><td><a href="https://henryndubuaku.github.io/maths-cs-ai-compendium/">Maths, CS & AI Compendium (6.4k stars)</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=qFtjSdOiIy&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">Parameter-Efficient Transformer Embedding via Functional Factorization (ICML 2026)</a></td></tr>
-  <tr><td><a href="https://docs.cactuscompute.com/latest/blog/turboquant-h/">TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=I02VQSYShw&referrer=%5Bthe%20profile%20of%20Henry%20Ndubuaku%5D(%2Fprofile%3Fid%3D~Henry_Ndubuaku1)">HiDRA: A Blazing Fast LM-Head Replacement (ICLR 2026)</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=rMrUJyrKHk">Depth Over Specialization in Small Multimodal Transformers (ICLR 2026)</a></td></tr>
   <tr><td><a href="https://openreview.net/forum?id=kKWSQsYgpa">Just Enough Learning: GRPO-Guided Controllers for Hyperparameter Sweeps (ICLR 2026)</a></td></tr>
