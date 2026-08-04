@@ -36,8 +36,8 @@ I also built an agentic foundation model for tiny smart devices that runs 1.2k t
 
 Needle has no FFN, just 26m params of pure attention, yet matches 10-25x bigger models. It can be a better Siri/Alexa that powers tiny smart devices. 
 
-We raised some money from YCombinator, Oxford's Seed Fund, FCVC (Slack, Coinbase, GitLab, Instacart etc.), 
-and 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
+We raised some money from YCombinator, FCVC (Slack, Coinbase, GitLab, Instacart etc.), Samsung Next, Oxford's Seed Fund,
+6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
 62 tech CTOs/VP/Dir both via syndicate and directly at Google DeepMind etc. 
 
 Cactus now powers cool products you've probably heard of...I think. 
