@@ -49,7 +49,7 @@ Cactus now powers cool products you've probably heard of...I think.
 - Justin already interned at OpenAI and published at NeurIps during a summer program at MIT...he's 19.
 - Noah previously interned at Google & Microsoft, an idea machine gun...he's 21.
 - Jakub previously interned at Nokia & wrote the bulk of React Native Executorch...he's 22.  
-- Parkirat is eerily great at low-level coding, takes after me
+- Parkirat is eerily great at low-level coding, basically my boss ATP...just 21.
 
 Cactus really is a tiny team, with tiny funding, building tiny AI for tiny devices :)  
 
