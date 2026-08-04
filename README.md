@@ -32,18 +32,26 @@ We named it after a plant that survives in resource-constrained environments, th
 can run similar model on your Grandma’s Pixel 6a at 80 tokens/second 
 while only draining 10% battery per hour of continuous inference and using 250MB RAM only. 
 
-I also built an agentic foundation model for tiny smart devices that runs 1.2k toks/sec on Cactus, its called Needle. 
+I then built an agentic foundation model for tiny smart devices, its compute graph is slim like a Needle. 
+Needle has no FFN, just 26m params of pure attention, yet matches 10-25x bigger models. 
+It can be a better Siri/Alexa for tiny smart devices, so we spun into a company with my friend. 
 
-Needle has no FFN, just 26m params of pure attention, yet matches 10-25x bigger models. It can be a better Siri/Alexa that powers tiny smart devices. 
-
-We raised some money from YCombinator, FCVC (Slack, Coinbase, GitLab, Instacart etc.), Samsung Next, Oxford's Seed Fund,
+We did Y Combinator, and raised from FCVC (Slack, Coinbase, GitLab, Instacart etc.), Samsung Next, Oxford's Seed Fund,
 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
-62 tech CTOs/VP/Dir both via syndicate and directly at Google DeepMind etc. 
+62 tech CTOs/VP/Dir both via syndicate and directly at DeepMind, Palantir etc. 
 
 Cactus now powers cool products you've probably heard of...I think. 
-6 exceptionally gifted "Cactus Jacks" from UCLA, Nokia, Google, Stanford, Oxford, have joined us! 
 
-Same destination, just a different route!
+6 gifted Research Engineers have joined us: 
+
+- Karen is an International Physics Olympiad Gold Medalist...says he's 22 (I don't believe him).
+- Satyajit joined Fei Fei Li's Lab at Stanford at 14y, a softie at heart, he's 21!
+- Justin already interned at OpenAI and published at NeurIps during a summer program at MIT...he's 19.
+- Noah previously interned at Google & Microsoft, an idea machine gun...he's 21.
+- Jakub previously interned at Nokia & wrote the bulk of React Native Executorch...he's 22.  
+- Parkirat is eerily great at low-level coding, takes after me
+
+Cactus really is a tiny team, with tiny funding, building tiny AI for tiny devices :)  
 
 ### Publications
 
