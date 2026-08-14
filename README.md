@@ -51,7 +51,9 @@ Cactus now powers cool products you've probably heard of...I think.
 - Jakub doesn't talk, just turns up with flawless execution, the company's John Wick...he's 22.  
 - Parkirat is basically my boss ATP, finally learnt to speak up, probably the best engineer...just 21.
 
-Cactus really is a tiny team, with tiny funding, building tiny AI for tiny devices :)  
+They are all smarter than I am by sheer IQ, I've just done more things haha.
+
+Cactus really is a tiny team, building tiny AI for tiny devices :)  
 
 ### Publications
 
