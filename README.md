@@ -78,7 +78,7 @@ Cactus really is a tiny team, building tiny AI for tiny devices :)
 <table>
   <tr>
     <td><strong>Profile</strong></td>
-    <td>Nigerian-British, born Jan 1996, 185cm, 83kg</td>
+    <td>Nigerian-British, born Jan, 185cm, 83kg</td>
   </tr>
   <tr>
     <td><strong>Hobbies</strong></td>
