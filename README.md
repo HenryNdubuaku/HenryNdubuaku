@@ -40,17 +40,15 @@ We did Y Combinator, and raised from FCVC (Slack, Coinbase, GitLab, Instacart et
 6 smaller funds like Transpose (run by Garry Tan's brother), fellow YC founders, and 
 62 tech CTOs/VP/Dir both via syndicate and directly at DeepMind, Palantir etc. 
 
-Cactus now powers cool products you've probably heard of...I think. 
-
-6 gifted Research Engineers have joined us: 
+Cactus now powers cool products you've probably heard of...I think, but its a tiny team. 
 
 - Karen is an International Physics Olympiad Gold Medalist...says he's 22 (I don't believe him).
+- Jakub made multiple code and maths Olympiad finals, the company's John Wick...he's 22.
 - Satyajit joined Fei Fei Li's Lab at Stanford at 14y, I've been accused of coddling him...he's 21!
 - Justin already interned at OpenAI and published at NeurIps, this one can sell me for money...he's 19.
-- Noah previously interned at Google & Microsoft, an idea machine gun...when not crashing out...he's 21.
-- Jakub doesn't talk, just turns up with flawless execution, the company's John Wick...he's 22.  
 - Parkirat is basically my boss ATP, finally learnt to speak up, probably the best engineer...just 21.
 
-Cactus really is a tiny team, building tiny AI for tiny devices :)  
+Past:
+- Noah (now Anthropic fellow) previously interned at Google & Microsoft, an idea machine gun...when not crashing out...was 21.
 
 [Read more about me and my career](https://henryndubuaku.fyi)
